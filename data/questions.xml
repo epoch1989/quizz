@@ -1,0 +1,485 @@
+<quiz>
+<question id="11">
+    <number>1 (11)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>Como integrante do Sistema Financeiro Nacional, cabe ao Conselho Monetário Nacional</text>
+    <options>
+        <option correct="true">definir as metas anuais de inflação.</option>
+        <option correct="false">determinar as taxas básicas de juros da economia brasileira.</option>
+        <option correct="false">atuar como emprestador de última instância.</option>
+        <option correct="false">calcular o Índice Nacional de Preços ao Consumidor Amplo (IPCA).</option>
+        <option correct="false">executar a política fiscal.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>definir as metas anuais de inflação.</answer>
+</question>
+
+
+<question id="2">
+    <number>2 (12)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>O Conselho de Recursos do Sistema Financeiro Nacional (CRSFN) se encarrega do julgamento, não apenas dos recursos contra as sanções aplicadas pelo Banco Central do Brasil e Comissão de Valores Mobiliários, mas, também, dos processos relacionados à “lavagem” de dinheiro, dos recursos contra as sanções aplicadas pelo Coaf, Susep e demais autoridades competentes. Os julgamentos e eventuais penalidades determinadas pelo CRSFN são de caráter</text>
+    <options>
+        <option correct="false">tributário</option>
+        <option correct="false">penal</option>
+        <option correct="true">administrativo</option>
+        <option correct="false">civil</option>
+        <option correct="false">internacional</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Os julgamentos e eventuais penalidades determinadas pelo CRSFN são de caráter administrativo. Isso ocorre porque o CRSFN, também conhecido como "Conselhinho", é uma instância recursal administrativa vinculada ao Ministério da Fazenda, que julga recursos contra penalidades aplicadas por órgãos reguladores como o Banco Central, a Comissão de Valores Mobiliários (CVM), o Conselho de Controle de Atividades Financeiras (Coaf) e outros. Suas decisões estão relacionadas à regulamentação e supervisão do sistema financeiro, aplicando medidas administrativas que buscam garantir a conformidade com as normas financeiras e prevenir atividades ilícitas como a lavagem de dinheiro.</answer>
+</question>
+
+
+<question id="3">
+    <number>3 (13)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>De acordo com a legislação brasileira, uma instituição financeira pode ser enquadrada na categoria de banco múltiplo se</text>
+    <options>
+        <option correct="false">for organizada sob a forma de sociedade de responsabilidade limitada.</option>
+        <option correct="false">for organizada exclusivamente como instituição financeira privada.</option>
+        <option correct="false">suas operações envolverem quaisquer tipos de carteiras, exceto a de desenvolvimento.</option>
+        <option correct="false">possuir, pelo menos, três carteiras, sendo duas delas, obrigatoriamente, as carteiras comercial e de crédito.</option>
+        <option correct="true">possuir, pelo menos, duas carteiras, sendo uma delas, obrigatoriamente, a carteira comercial ou a carteira de investimento.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+        <img src="data/img03.jpg" alt="Imagem de exemplo"></img>
+    </extraContent>
+    <answer>De acordo com a legislação brasileira, uma instituição financeira pode ser enquadrada na categoria de banco múltiplo se possuir, pelo menos, duas carteiras, sendo uma delas, obrigatoriamente, a carteira comercial ou a carteira de investimento. Isso significa que um banco múltiplo deve atuar em pelo menos duas áreas distintas de serviços financeiros, e uma dessas áreas deve ser a de operações comerciais ou de investimentos. Este requisito visa assegurar que os bancos múltiplos tenham uma diversidade mínima de operações, o que pode contribuir para uma maior estabilidade financeira e capacidade de atender a diferentes necessidades do mercado.</answer>
+</question>
+
+<question id="4">
+    <number>4 (14)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>A garantia real em que o devedor detém a posse de um bem, mas transfere, temporariamente, ao credor a propriedade desse mesmo bem, dado como garantia, até que a dívida seja totalmente quitada, é denominada</text>
+    <options>
+        <option correct="false">fiança</option>
+        <option correct="false">aval</option>
+        <option correct="false">penhor civil</option>
+        <option correct="true">alienação fiduciária</option>
+        <option correct="false">penhor mercantil</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>A garantia real denominada alienação fiduciária ocorre quando o devedor mantém a posse do bem, mas a propriedade é temporariamente transferida ao credor como garantia até que a dívida seja totalmente quitada. Este tipo de garantia é muito utilizado em financiamentos de veículos e imóveis, onde o bem financiado permanece com o devedor, que pode utilizá-lo normalmente, mas a propriedade é do credor até o pagamento total da dívida. Após a quitação, a propriedade é transferida de volta ao devedor. Este mecanismo oferece segurança adicional ao credor, pois ele pode retomar o bem em caso de inadimplência.</answer>
+</question>
+
+<question id="5">
+    <number>5 (15)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>Em seu website, a Agência Estadual de Fomento do Rio de Janeiro (AgeRio) estabelece como missão “fomentar, por meio de soluções financeiras, o desenvolvimento sustentável do Estado do Rio de Janeiro, com excelência na prestação de serviços”. Nesse contexto, NÃO está sob o alcance de agências de fomento adotar instrumentos para</text>
+    <options>
+        <option correct="false">fomentar o emprego e a renda.</option>
+        <option correct="true">controlar a inflação.</option>
+        <option correct="false">prover suporte financeiro às micro, pequenas e médias empresas.</option>
+        <option correct="false">estimular as inovações.</option>
+        <option correct="false">estimular o desenvolvimento de tecnologias com baixa emissão de dióxido de carbono</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Agências de fomento, como a AgeRio, têm como missão promover o desenvolvimento sustentável e econômico por meio de soluções financeiras. Elas fornecem suporte financeiro às micro, pequenas e médias empresas, estimulam inovações e tecnologias sustentáveis, e fomentam o emprego e a renda. No entanto, controlar a inflação não está sob o alcance dessas agências, pois essa é uma função típica dos bancos centrais, como o Banco Central do Brasil. O controle da inflação envolve a implementação de políticas monetárias e a regulação da oferta de dinheiro na economia, tarefas que são específicas do Banco Central.</answer>
+</question>
+
+<question id="6">
+    <number>6 (16)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>Considere que uma agência de fomento, como a AgeRio, aprove uma linha de crédito de longo prazo para uma empresa de pequeno porte, que atua no segmento de produtos lácteos, financiar, exclusivamente, os bens de capital requeridos para o investimento inicial. Nesse caso, a linha de crédito poderá cobrir as despesas com aquisição de produtos diversos, EXCETO de</text>
+    <options>
+        <option correct="false">máquinas</option>
+        <option correct="false">equipamentos produtivos diversos</option>
+        <option correct="false">veículos para transporte e entrega dos produtos aos distribuidores</option>
+        <option correct="true">insumos diversos</option>
+        <option correct="false">refrigeradores industriais</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Linhas de crédito de longo prazo fornecidas por agências de fomento, como a AgeRio, para o financiamento de bens de capital, normalmente cobrem despesas com máquinas, equipamentos produtivos diversos, veículos para transporte e entrega, e refrigeradores industriais. Estes são considerados bens de capital, que são investimentos em ativos físicos usados na produção de bens e serviços. No entanto, insumos diversos, que são itens de consumo recorrente e não permanentes, não são classificados como bens de capital e, portanto, não são cobertos por essas linhas de crédito. A exclusão de insumos diversos é uma prática comum, pois as linhas de crédito de longo prazo visam financiar ativos fixos que proporcionam benefícios econômicos a longo prazo.</answer>
+</question>
+
+<question id="7">
+    <number>7 (17)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>Na estrutura do Sistema Financeiro Nacional, o Banco Central do Brasil (BCB) é considerado emprestador de última instância, porque uma de suas principais operações ativas é fornecer</text>
+    <options>
+        <option correct="false">crédito direto aos consumidores.</option>
+        <option correct="false">crédito destinado ao financiamento de capital de giro.</option>
+        <option correct="true">crédito a instituições financeiras que enfrentam problemas de liquidez.</option>
+        <option correct="false">crédito de longo prazo destinado ao financiamento do investimento.</option>
+        <option correct="false">crédito de longo prazo destinado ao financiamento da compra da casa própria.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Na estrutura do Sistema Financeiro Nacional, o Banco Central do Brasil (BCB) é considerado o emprestador de última instância porque uma de suas principais operações ativas é fornecer crédito a instituições financeiras que enfrentam problemas de liquidez. Esse papel é crucial para manter a estabilidade do sistema financeiro, pois o BCB atua como uma fonte de financiamento emergencial para bancos e outras instituições financeiras que, temporariamente, não conseguem obter liquidez suficiente no mercado. Ao fornecer esse crédito, o BCB ajuda a evitar que problemas de liquidez se transformem em crises sistêmicas, protegendo assim a economia como um todo.</answer>
+</question>
+
+<question id="8">
+    <number>8 (19)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>J é economista e atua em instituição financeira ocupando cargo de gerência. No curso de sua atividade como bancário, realizou diversos treinamentos em legislação e obteve valiosos conselhos dos funcionários mais experientes. Um dos temas mais debatidos internamente relacionava-se à prevenção no concernente à lavagem de dinheiro. De acordo com os termos da Circular BACEN nº 3.978/2020, a política de prevenção deve ser compatível em relação aos clientes com o seu perfil</text>
+    <options>
+        <option correct="false">social</option>
+        <option correct="false">financeiro</option>
+        <option correct="false">societário</option>
+        <option correct="false">econômico</option>
+        <option correct="true">de risco</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>De acordo com os termos da Circular BACEN nº 3.978/2020, a política de prevenção à lavagem de dinheiro deve ser compatível com o perfil de risco dos clientes. A avaliação do perfil de risco é crucial para implementar medidas de controle e monitoramento adequadas, permitindo que a instituição financeira identifique e mitigue possíveis riscos de atividades ilícitas. O perfil de risco leva em consideração diversos fatores, como a origem dos recursos, a natureza das transações, e o comportamento financeiro dos clientes, garantindo assim uma abordagem eficaz na prevenção à lavagem de dinheiro.</answer>
+</question>
+
+<question id="9">
+    <number>9 (20)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Gestão</subject>
+    </exam>
+    <text>JON é Diretor Executivo de instituição financeira, sendo responsável pela observância das normas regulamentares emitidas pelo Banco Central do Brasil, buscando diminuir custos na realização de políticas determinadas. De acordo com os termos da Circular BACEN nº 3.978/2020, admite-se a adoção de política de prevenção à lavagem de dinheiro única por conglomerado</text>
+    <options>
+        <option correct="false">coletivo</option>
+        <option correct="false">empresarial</option>
+        <option correct="false">federativo</option>
+        <option correct="false">associativo</option>
+        <option correct="true">prudencial</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>De acordo com os termos da Circular BACEN nº 3.978/2020, admite-se a adoção de uma política de prevenção à lavagem de dinheiro única por conglomerado prudencial. Um conglomerado prudencial é um grupo de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil que são controladas por uma mesma entidade e que atuam de forma integrada no mercado financeiro. Essa política permite que todas as instituições do conglomerado adotem uma abordagem unificada para a prevenção à lavagem de dinheiro e ao financiamento do terrorismo, facilitando a gestão de riscos e a conformidade regulatória. Isso é especialmente importante para garantir a eficiência e a consistência das práticas de prevenção dentro do conglomerado.</answer>
+</question>
+
+<question id="10">
+    <number>10 (26)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>O Produto Interno Bruto (PIB) do país X, estimado a preços correntes, alcançou 1.000 unidades monetárias de X no ano de 2020. Em 2021, o PIB de X, a preços correntes, foi estimado em 1.100 unidades monetárias de X. Caso tenha ocorrido uma inflação anual de 5% em X, entre 2020 e 2021, conclui-se que, de 2020 para 2021, o PIB</text>
+    <options>
+        <option correct="false">real de X não aumentou.</option>
+        <option correct="false">real de X aumentou aproximadamente 10%.</option>
+        <option correct="true">real de X aumentou aproximadamente 5%.</option>
+        <option correct="false">nominal de X não aumentou.</option>
+        <option correct="false">nominal de X aumentou aproximadamente 5%.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Para determinar o crescimento do PIB real de X, ajustamos o aumento do PIB nominal pela inflação. O PIB nominal de X aumentou de 1.000 para 1.100 unidades monetárias, um aumento de 10%. Com uma inflação de 5% no período, o crescimento real do PIB é aproximadamente 5% (~10%-5%). Portanto, a resposta correta é que o PIB real de X aumentou aproximadamente 5%.</answer>
+</question>
+
+<question id="11">
+    <number>11 (27)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Certo país adotou o regime monetário de metas de inflação, a ser praticado pelo banco central. Caso a medição da inflação no país surpreenda, no sentido de ultrapassar a meta de inflação, seu banco central, para combater a inflação, deveria</text>
+    <options>
+        <option correct="true">aumentar a taxa de juros básica da economia.</option>
+        <option correct="false">reduzir o gasto do setor público.</option>
+        <option correct="false">aumentar os impostos pagos pelos contribuintes.</option>
+        <option correct="false">alterar a taxa de câmbio, desvalorizando a moeda doméstica.</option>
+        <option correct="false">aumentar os impostos sobre as exportações.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Em um regime de metas de inflação, o banco central adota medidas de política monetária para manter a inflação dentro da meta estabelecida. Quando a inflação ultrapassa essa meta, uma das principais ferramentas do banco central para combater a inflação é aumentar a taxa de juros básica da economia. O aumento da taxa de juros desestimula o consumo e o investimento, reduzindo a demanda agregada e, consequentemente, a pressão inflacionária. Essa medida torna o crédito mais caro e incentiva a poupança, ajudando a controlar a inflação.</answer>
+</question>
+
+<question id="12">
+    <number>12 (28)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Uma empresa aumentou a sua produção de 100 para 110 unidades mensais, e seu custo total médio de produção caiu de R$ 100,00 para R$ 95,50 por unidade produzida. Deduz-se que, ao aumentar a produção, o(a)</text>
+    <options>
+        <option correct="false">custo total mensal diminuiu.</option>
+        <option correct="true">custo total mensal aumentou.</option>
+        <option correct="false">custo marginal de produção (de uma unidade a mais) era inicialmente negativo.</option>
+        <option correct="false">custo fixo da empresa era nulo.</option>
+        <option correct="false">empresa se encontrava inicialmente em uma faixa de produção com deseconomias de escala.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Ao aumentar a produção de 100 para 110 unidades mensais, o custo total mensal da empresa aumentou. Inicialmente, o custo total médio de produção era R$ 100,00 por unidade, resultando em um custo total de R$ 10.000. Após o aumento da produção, o custo total médio caiu para R$ 95,50 por unidade, mas o custo total finalizou em R$ 10.505 (110 unidades * R$ 95,50/unidade). Isso mostra que, mesmo com a redução no custo médio, o custo total aumentou devido à maior quantidade produzida. Portanto, a resposta correta é que o custo total mensal aumentou.</answer>
+</question>
+
+<question id="13">
+    <number>13 (29)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Um analista apresentou seu currículo para integrar os quadros de direção de empresa estatal, mas necessita de avaliação para poder exercer a atividade. De acordo com a Lei Federal nº 13.303/2016, a empresa pública deverá criar, para verificar a conformidade do processo de indicação e de avaliação de membros para o Conselho de Administração e para o Conselho Fiscal, um(a)</text>
+    <options>
+        <option correct="false">órgão auditor</option>
+        <option correct="true">comitê estatutário</option>
+        <option correct="false">cargo de ouvidoria</option>
+        <option correct="false">setor de análise</option>
+        <option correct="false">seção de Recursos Humanos</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>De acordo com a Lei Federal nº 13.303/2016, conhecida como a Lei das Estatais, as empresas públicas e sociedades de economia mista devem criar um comitê estatutário. Esse comitê é responsável por verificar a conformidade do processo de indicação e de avaliação de membros para o Conselho de Administração e para o Conselho Fiscal. O objetivo é assegurar que os indicados possuam as qualificações e competências necessárias, bem como garantir a transparência e a integridade no processo de seleção. Portanto, a criação de um comitê estatutário é uma medida fundamental para promover a boa governança e a gestão eficiente nas empresas estatais.</answer>
+</question>
+
+<question id="14">
+    <number>14 (30)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Um integrante da comissão de orçamento de órgão público busca analisar as despesas continuadas. De acordo com a Lei Complementar nº 101/2000, considera-se obrigatória de caráter continuado a despesa corrente derivada de lei que fixe para o ente a obrigação legal de sua execução por um período superior a</text>
+    <options>
+        <option correct="true">dois exercícios</option>
+        <option correct="false">trinta dias</option>
+        <option correct="false">quatro meses</option>
+        <option correct="false">vinte horas</option>
+        <option correct="false">três anos</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>De acordo com a Lei Complementar nº 101/2000, a Lei de Responsabilidade Fiscal, considera-se obrigatória de caráter continuado a despesa corrente derivada de lei, medida provisória ou ato administrativo normativo que fixe para o ente a obrigação legal de sua execução por um período superior a dois exercícios financeiros. Essa definição é importante para o planejamento e a gestão fiscal dos entes públicos, pois despesas de caráter continuado impactam o orçamento de longo prazo e exigem uma gestão responsável para garantir a sustentabilidade fiscal.</answer>
+</question>
+
+<question id="15">
+    <number>15 (31)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Uma operadora de telefonia planeja desativar 60% das torres recebidas de uma concorrente recém-adquirida. Dos mais de 7 mil sites recebidos, cerca de 40% são em locais novos, onde a operadora não possui infraestrutura instalada, e os 60% restantes estão sujeitos à otimização das operações. Com a desativação dos sites duplicados ou desnecessários, a operadora prevê redução de custos operacionais que seriam necessários para contratar essas torres e realizar leasing no futuro. Considerando-se a análise da cadeia de valor, a estratégia de produção própria foca a otimização de</text>
+    <options>
+        <option correct="false">atividades dinâmicas</option>
+        <option correct="true">atividades primárias</option>
+        <option correct="false">franquias</option>
+        <option correct="false">inovação contínua</option>
+        <option correct="false">intangibilidade</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Na análise da cadeia de valor, as atividades são divididas em atividades primárias e atividades de suporte. As atividades primárias incluem a logística interna e externa, operações, marketing e vendas, e serviços. No contexto da operadora de telefonia, a desativação de torres recebidas e a otimização da infraestrutura para reduzir custos operacionais se enquadram nas atividades primárias. Essas atividades são diretamente relacionadas à operação e manutenção da infraestrutura necessária para fornecer serviços de telefonia, garantindo a eficiência operacional e a redução de custos.</answer>
+</question>
+
+<question id="16">
+    <number>16 (32)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Uma grande corporação de produtos de beleza lançou uma plataforma on-line para digitalizar vendas nos salões do país. Essa é uma tendência do varejo que reúne varejo digital com redes sociais. A proposta é que os profissionais de beleza possam compartilhar ofertas diretamente para suas clientes e para seus seguidores em redes sociais. O projeto viabiliza a digitalização do salão, oferecendo a plataforma e a solução tecnológica desde a compra on-line à entrega do pedido, passando pelo atendimento ao consumidor. A expectativa é que, em breve, mais de 50% das vendas diretas da empresa para os consumidores passarão por um salão ou um cabeleireiro. A estratégia corporativa voltada à aproximação dos revendedores e consumidores finais está relacionada a</text>
+    <options>
+        <option correct="false">baixo custo</option>
+        <option correct="false">competição multiponto</option>
+        <option correct="false">diversificação</option>
+        <option correct="true">integração vertical</option>
+        <option correct="false">monopólio</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>A estratégia descrita na questão envolve a digitalização das vendas e a criação de uma plataforma que conecta diretamente os profissionais de beleza (revendedores) aos consumidores finais. Isso facilita a compra online, entrega e atendimento ao consumidor. Essa estratégia é um exemplo de integração vertical. A integração vertical ocorre quando uma empresa controla várias etapas da sua cadeia de valor, desde a produção até a distribuição e venda direta aos consumidores. No caso descrito, a empresa de produtos de beleza está integrando verticalmente ao digitalizar e facilitar as vendas diretamente através dos salões de beleza, controlando desde a oferta de produtos até o atendimento ao cliente.</answer>
+</question>
+
+<question id="17">
+    <number>17 (33)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Ao analisar o sistema de informação organizacional, o diretor da empresa percebeu que havia falhas nas informações que chegavam dos supervisores de primeira linha das divisões de marketing e de produção: os processamentos de pedidos estavam errados, e a programação da fábrica estava atrasada. Nesse caso, os problemas encontrados estão localizados no nível do sistema de informações</text>
+    <options>
+        <option correct="false">táticas</option>
+        <option correct="false">ambientais</option>
+        <option correct="false">estratégicas</option>
+        <option correct="true">operacionais</option>
+        <option correct="false">coordenadas</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Os problemas descritos, como falhas nas informações que chegam dos supervisores de primeira linha, erros no processamento de pedidos e atrasos na programação da fábrica, estão relacionados ao nível do sistema de informações operacionais. Este nível lida com as atividades diárias e operações básicas da organização, incluindo processamento de pedidos e programação da produção. Sistemas de informações operacionais são essenciais para garantir a eficiência e a eficácia das operações diárias e para evitar problemas que possam impactar o funcionamento geral da empresa.</answer>
+</question>
+
+<question id="18">
+    <number>18 (34)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>A função do gerente de projeto varia de acordo com a estrutura organizacional em que o projeto é realizado. No caso do projeto levado à frente por certa empresa, o gerente do projeto está subordinado ao setor de vendas. Dessa forma, a estrutura utilizada é classificada como estrutura</text>
+    <options>
+        <option correct="false">basilar</option>
+        <option correct="false">matricial</option>
+        <option correct="true">funcional</option>
+        <option correct="false">projetizada</option>
+        <option correct="false">centralizada</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>A estrutura organizacional em que o gerente de projeto está subordinado a um setor específico, como vendas, é conhecida como estrutura funcional. Na estrutura funcional, a organização é dividida em departamentos ou áreas funcionais, cada um com seu próprio gerente. Os gerentes de projeto têm uma autoridade limitada e se reportam aos gerentes funcionais, que têm a responsabilidade sobre a área específica. Esta estrutura é comum em empresas que têm projetos alinhados com suas funções principais, como vendas, marketing, ou produção.Matricial (B): Combina aspectos da estrutura funcional e projetizada. Nesta estrutura, os funcionários têm dois chefes: um gerente funcional e um gerente de projeto. No entanto, a questão menciona que o gerente de projeto está subordinado ao setor de vendas, o que é mais característico de uma estrutura funcional.Projetizada (D): Em uma estrutura projetizada, os gerentes de projeto têm autoridade total sobre os projetos e os funcionários são organizados em torno dos projetos.Centralizada (E): Refere-se a uma estrutura onde a tomada de decisão é concentrada no topo da hierarquia organizacional, mas não é específica sobre a subordinação funcional.
+    </answer>
+</question>
+
+<question id="19">
+    <number>19 (35)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>As condições de concorrência e as práticas dos consumidores se alteram a todo momento. O presidente de uma empresa do ramo de varejo, muito preocupado com as mudanças do comportamento dos consumidores e o aumento das vendas on-line, percebe que seus concorrentes conseguem acompanhar melhor esse novo cenário. Por conta disso, ele pede que os diretores deem início à reengenharia de processos, cuja primeira etapa é o(a)</text>
+    <options>
+        <option correct="false">redesenho do processo</option>
+        <option correct="false">levantamento detalhado do processo</option>
+        <option correct="false">implantação do novo processo</option>
+        <option correct="false">análise crítica do processo</option>
+        <option correct="true">identificação do processo problemático</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>A reengenharia de processos é uma abordagem para melhorar a eficiência e a eficácia dos processos organizacionais. A primeira etapa da reengenharia de processos é a identificação do processo problemático. Esta etapa envolve determinar quais processos estão causando problemas ou não estão alcançando os resultados desejados e, portanto, precisam ser reavaliados e redesenhados. Somente após identificar os processos problemáticos, a empresa pode prosseguir para etapas subsequentes, como o levantamento detalhado, análise crítica e redesenho dos processos.
+    Resumo da Ordem das Etapas:
+Identificação do Processo Problemático (E)
+Levantamento Detalhado do Processo (B)
+Análise Crítica do Processo (D)
+Redesenho do Processo (A)
+Implantação do Novo Processo (C)</answer>
+</question>
+
+<question id="20">
+    <number>20 (36)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Em alguns casos, fatores ambientais externos podem ter influência na estrutura organizacional de algumas empresas. A queda da renda dos consumidores foi levada em conta por diretores de uma empresa do setor de varejo, que discutiam a melhor maneira de criarem um serviço de crédito ao consumidor dentro do departamento financeiro. Nesse caso, os diretores estão levando em consideração fatores</text>
+    <options>
+        <option correct="false">legais</option>
+        <option correct="false">naturais</option>
+        <option correct="false">políticos</option>
+        <option correct="true">econômicos</option>
+        <option correct="false">tecnológicos</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Os fatores mencionados na questão, como a queda da renda dos consumidores e a discussão sobre a criação de um serviço de crédito ao consumidor, estão claramente relacionados a fatores econômicos. Esses fatores incluem a renda dos consumidores, taxas de juros, inflação e outras condições econômicas que afetam tanto a empresa quanto seus clientes. Considerar esses fatores permite que os diretores tomem decisões estratégicas informadas para mitigar os impactos negativos e explorar oportunidades no ambiente econômico.</answer>
+</question>
+``
+<question id="21">
+    <number>21 (37)</number>
+    <exam>
+        <name>Prova 7 Agerio23</name>
+        <organization>Cesgranrio</organization>
+        <year>2023</year>
+        <subject>Conhecimentos Específicos</subject>
+    </exam>
+    <text>Diretores de uma empresa de software perceberam como era difícil planejar todo o desenvolvimento do projeto antes de iniciá-lo e decidiram adotar métodos de gestão de projetos que enfatizam o desenvolvimento e a entrega do produto. Dessa forma, os membros do time passaram a deixar de lado documentação e planejamento do projeto e passaram a se preocupar em manter uma comunicação constante da equipe com clientes e gestores, sempre com o foco na entrega do produto esperado. Os métodos de gestão de projeto adotados nesse caso são classificados como</text>
+    <options>
+        <option correct="true">métodos ágeis</option>
+        <option correct="false">métodos Kanban</option>
+        <option correct="false">métodos preditivos</option>
+        <option correct="false">métodos sobrepostos</option>
+        <option correct="false">métodos experimentais</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Os métodos descritos na questão enfatizam o desenvolvimento iterativo, a entrega contínua de produtos e a comunicação constante com a equipe e os clientes. Esses são princípios fundamentais dos métodos ágeis. Métodos ágeis, como Scrum e Extreme Programming (XP), são abordagens flexíveis que permitem ajustes frequentes com base no feedback do cliente e na evolução das necessidades do projeto. Eles priorizam a entrega de valor contínuo ao cliente e a adaptação rápida a mudanças, em vez de um planejamento extensivo e documentação pesada.
+
+**Métodos Kanban (B)**: Uma abordagem visual para gerenciar o trabalho conforme ele se move através de um processo, focando na melhoria contínua. Embora também seja ágil, é mais específico e não necessariamente substitui a documentação e o planejamento extensivos.
+
+**Métodos Preditivos (C)**: Enfatizam o planejamento detalhado antes do início do projeto e são conhecidos como abordagens tradicionais ou em cascata. Não se aplicam ao cenário descrito na questão.
+
+**Métodos Sobrepostos (D)**: Referem-se ao gerenciamento de projetos onde fases ou tarefas do projeto se sobrepõem, mas isso não é específico ao cenário descrito.
+
+**Métodos Experimentais (E)**: Focam em experimentação e inovação, mas não são termos comuns na gestão de projetos.</answer>
+</question>
+
+
+</quiz>
+
+

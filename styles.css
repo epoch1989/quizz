@@ -1,0 +1,177 @@
+body {
+    font-size: 1.2em; /* Ajuste esse valor conforme necessário */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    text-align: center;  /* Centraliza o conteúdo do container */
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.selection-container {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.selection-container select {
+    font-size: 1em;
+    padding: 5px;
+}
+
+.question-container > div {
+    text-align: justify; /* Centraliza cada linha de informação */
+    margin: 5px 0;
+    font-size: 1.2em;
+}
+
+.image-container {
+    max-width: 100%;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+.options-container {
+    text-align: left;
+    margin: 20px 0;
+}
+
+.option {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1.2em;
+}
+
+.option.selected {
+    background-color: grey; /* Cor de fundo quando selecionada */
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.option.correct {
+    background-color: darkgreen; /* Verde */
+    color: white;
+}
+
+.option.incorrect {
+    background-color: darkred; /* Vermelho */
+    color: white;
+    font-size: 1.2em;
+}
+
+.feedback-container {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.navigation {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.navigation button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1em;
+}
+
+.navigation button:hover {
+    background-color: #0056b3; 
+}
+
+
+#show-answer-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#show-answer-btn:hover {
+    background-color: #218838;
+}
+
+.start-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1em;
+}
+
+.start-btn:hover {
+    background-color: #0056b3; 
+}
+
+.score-container {
+    margin-top: 20px;
+    color: #cccccc;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: right;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+        border: none;
+    }
+
+    .option {
+        font-size: 1em;
+        padding: 8px;
+    }
+
+    .navigation button {
+        margin: 5px 0;
+        width: 100%;
+        font-size: 1em;
+    }
+
+    .selection-container select, .selection-container button {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .header h1 {
+        font-size: 1.5em;
+    }
+}

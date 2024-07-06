@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Z</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Quiz Z</h1>
+        </div>
+        <div class="selection-container">
+            <label for="quiz-selector">Escolha uma prova:</label>
+            <select id="quiz-selector">
+                <option value="">Selecione a prova</option>
+                <option value="data\questions.xml">questions.xml</option>
+                <option value="data\questions2.xml">questions2.xml</option>
+            </select>
+            <button id="start-btn" class="start-btn" onclick="startQuiz()">Iniciar Quiz</button>
+        </div>
+        <div id="question-container" class="question-container">
+            <!-- Conteúdo da pergunta -->
+            <div class="image-container">
+                <img src="data/Ava.jpg" alt="Imagem de exemplo">
+            </div>
+        </div>
+        <div class="options-container"></div>
+        <div class="feedback-container" id="feedback-container"></div>        
+        <div class="navigation" id="navigation" style="display: none;">
+            <button id="show-answer-btn" onclick="showAnswer()">Mostrar Resposta</button>
+            <button id="prev-btn" onclick="prevQuestion()">Anterior</button>
+            <button id="next-btn" onclick="nextQuestion()">Próximo</button>
+        </div>
+        <div id="score-container" class="score-container"></div>
+        <div id="result-container" class="result-container" style="display: none;"></div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
