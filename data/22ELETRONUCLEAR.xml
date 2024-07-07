@@ -281,7 +281,8 @@ De acordo com Keynes, as decisões de investimento nas economias capitalistas s�
 
 O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de metas de inflação, o foco principal é na taxa de juros. O controle direto de preços de bens e serviços (B) e dos bens e serviços administrados (C) não são práticas comuns ou eficazes no regime de metas de inflação. O controle dos salários nominais (E) não é utilizado como o principal instrumento de controle da inflação no regime de metas.</answer>
 </question>
-<question id="11">
+
+<question>
     <number>11 (36)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
@@ -289,14 +290,16 @@ O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de
         <year>2022</year>
         <subject>ECONOMIA</subject>
     </exam>
-    <text>A regra de Taylor é uma das ferramentas mais utilizadas pela maioria dos Bancos Centrais, no manejo da política monetária. Elaborada pelo economista John Taylor, em 1993, ela pode ser expressa pela equação:
-    \[ i_t = r^* + \Pi_t + \alpha (\Pi_t - \Pi^*) + \beta \left( \frac{Y_t - Y_t^*}{Y_t^*} \right) \]
+    <text>
+        A regra de Taylor é uma das ferramentas mais utilizadas pela maioria dos Bancos Centrais, no manejo da política monetária. Elaborada pelo economista John Taylor, em 1993, ela pode ser expressa pela equação:<br> </br>
+        it = r* + πt + α (πt - π*) + β ((Yt - Yt*) / Yt*)<br> </br>
 
-    em que \(i\) é a taxa básica de juros de curto prazo; \(r^*\) é a taxa de juros real neutra; \(\Pi\), a taxa de inflação observada; \(\Pi^*\), a meta de inflação; \(Y\), o PIB real observado; \(Y^*\), o PIB real potencial de pleno-emprego; \(t\), o período temporal considerado; e \(\alpha\) e \(\beta\) são coeficientes positivos escolhidos pelo Banco Central.
+        em que i é a taxa básica de juros de curto prazo; r* é a taxa de juros real neutra; π, a taxa de inflação observada; π*, a meta de inflação; Y, o PIB real observado; Y*, o PIB real potencial de pleno-emprego; t, o período temporal considerado; e α e β são coeficientes positivos escolhidos pelo Banco Central.<br> </br>
 
-    Admita que uma determinada economia apresente taxas de inflação observadas superiores à meta de inflação e hiatos do produto positivos, ao longo de determinado período.
+        Admita que uma determinada economia apresente taxas de inflação observadas superiores à meta de inflação e hiatos do produto positivos, ao longo de determinado período.<br> </br>
 
-    Tendo em vista, exclusivamente, os preceitos da regra de Taylor, o Banco Central desse país deverá:</text>
+        Tendo em vista, exclusivamente, os preceitos da regra de Taylor, o Banco Central desse país deverá:
+    </text>
     <options>
         <option correct="false">reduzir a taxa básica de juros de curto prazo</option>
         <option correct="false">reduzir a taxa de juros real neutra</option>
@@ -305,18 +308,64 @@ O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de
         <option correct="true">aumentar a taxa básica de juros de curto prazo</option>
     </options>
     <extraContent>
-        <blockquote>
-        A regra de Taylor é uma das ferramentas mais utilizadas pela maioria dos Bancos Centrais, no manejo da política monetária. Elaborada pelo economista John Taylor, em 1993, ela pode ser expressa pela equação:
-        \[ i_t = r^* + \Pi_t + \alpha (\Pi_t - \Pi^*) + \beta \left( \frac{Y_t - Y_t^*}{Y_t^*} \right) \]
+        <img src="data/img/22eletronuclear36.jpg" alt="Equação de Taylor"> </img>
 
-        em que \(i\) é a taxa básica de juros de curto prazo; \(r^*\) é a taxa de juros real neutra; \(\Pi\), a taxa de inflação observada; \(\Pi^*\), a meta de inflação; \(Y\), o PIB real observado; \(Y^*\), o PIB real potencial de pleno-emprego; \(t\), o período temporal considerado; e \(\alpha\) e \(\beta\) são coeficientes positivos escolhidos pelo Banco Central.
-        </blockquote>
-        <reference>KEYNES, J.M. A Teoria Geral do Emprego, do Juro e da Moeda. São Paulo: Editora Nova Cultural, 1996, p.161.</reference>
     </extraContent>
-    <answer>A regra de Taylor indica que a taxa básica de juros deve ser ajustada para responder a desvios da inflação em relação à meta e do PIB real em relação ao potencial. Quando a inflação observada é superior à meta (\(\Pi_t > \Pi^*\)) e há um hiato positivo do produto (\(Y_t > Y_t^*\)), a equação da regra de Taylor recomenda um aumento da taxa básica de juros de curto prazo (\(i_t\)) para conter a inflação e evitar o superaquecimento da economia.
+    <answer>
+        A regra de Taylor indica que a taxa básica de juros deve ser ajustada para responder a desvios da inflação em relação à meta e do PIB real em relação ao potencial. Quando a inflação observada é superior à meta (πt > π*) e há um hiato positivo do produto (Yt > Yt*), a equação da regra de Taylor recomenda um aumento da taxa básica de juros de curto prazo (it) para conter a inflação e evitar o superaquecimento da economia.
 
-A alternativa (A) é incorreta porque reduzir a taxa básica de juros de curto prazo seria uma medida contrária aos preceitos da regra de Taylor quando a inflação está acima da meta e há um hiato positivo do produto. A alternativa (D) sobre aumentar a oferta monetária é incorreta porque poderia exacerbar a inflação, o que contraria o objetivo de estabilização da regra de Taylor.</answer>
+        A alternativa (A) é incorreta porque reduzir a taxa básica de juros de curto prazo seria uma medida contrária aos preceitos da regra de Taylor quando a inflação está acima da meta e há um hiato positivo do produto. A alternativa (D) sobre aumentar a oferta monetária é incorreta porque poderia exacerbar a inflação, o que contraria o objetivo de estabilização da regra de Taylor.
+    </answer>
 </question>
+
+<question id="12">
+    <number>12 (37)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>Definindo-se as receitas líquidas de impostos como a diferença entre o total de impostos arrecadados pelo governo e as transferências governamentais realizadas em determinado período, entende-se por saldo fiscal nominal nesse mesmo período a:</text>
+    <options>
+        <option correct="true">diferença entre as receitas líquidas de impostos e os gastos primários do governo, acrescida das despesas de juros incidentes sobre a dívida pública</option>
+        <option correct="false">diferença entre as receitas líquidas de impostos e os gastos primários do governo</option>
+        <option correct="false">diferença entre as receitas de impostos e as transferências realizadas</option>
+        <option correct="false">diferença entre as receitas líquidas de impostos e as despesas anuais de juros incidentes sobre a dívida pública</option>
+        <option correct="false">soma dos gastos primários do governo e das despesas anuais de juros incidentes sobre a dívida pública</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>O saldo fiscal nominal é a diferença entre as receitas líquidas de impostos e os gastos primários do governo, acrescida das despesas de juros incidentes sobre a dívida pública. A alternativa (B) está incorreta porque define apenas o saldo primário, que não inclui as despesas com juros.</answer>
+</question>
+
+<question id="13">
+    <number>13 (38)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>O modelo de crescimento econômico de Solow baseia-se numa função agregada de produção, expressa na forma Q = K^(1-α) * L^α * A(t), em que Q é o nível do produto; K, o estoque de capital da economia; L, a força de trabalho; A(t), o estado da tecnologia no tempo t; e 1 - α e α são coeficientes técnicos que representam os retornos dos fatores capital e trabalho, respectivamente.
+
+Com base nas hipóteses do modelo de Solow, um dos mais influentes na teoria neoclássica de crescimento econômico, verifica-se que:</text>
+    <options>
+        <option correct="false">a função agregada de produção está sujeita a retornos crescentes de escala</option>
+        <option correct="true">o progresso técnico é a variável exógena e é estimado como resíduo no modelo</option>
+        <option correct="false">o progresso técnico, sendo a variável endógena do modelo, é o principal fator explicativo do crescimento econômico no longo prazo</option>
+        <option correct="false">o fator capital é o fator variável do modelo e está sujeito a rendimentos crescentes</option>
+        <option correct="false">os fatores capital e trabalho estão sujeitos à mesma taxa de variação ao longo do tempo</option>
+    </options>
+    <extraContent>
+        <image src="data/img/22eletronuclear38.jpg" alt="Equação de Solow" />
+    </extraContent>
+    <answer>No modelo de crescimento de Solow, o progresso técnico é considerado uma variável exógena. Ele é frequentemente estimado como um resíduo, conhecido como o "resíduo de Solow" ou "fator de Solow", que capta o crescimento do produto não explicado pelo aumento dos fatores de produção (capital e trabalho). Este resíduo é interpretado como o efeito do progresso técnico.
+
+A alternativa (A) está incorreta porque a função agregada de produção no modelo de Solow está sujeita a retornos constantes de escala, não crescentes. A alternativa (C) está incorreta porque no modelo de Solow, o progresso técnico é exógeno, não endógeno. A alternativa (D) está incorreta porque no modelo de Solow, o fator capital está sujeito a rendimentos decrescentes, não crescentes. A alternativa (E) está incorreta porque os fatores capital e trabalho não estão sujeitos à mesma taxa de variação ao longo do tempo.</answer>
+</question>
+
 
 
 

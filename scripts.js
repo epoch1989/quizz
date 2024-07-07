@@ -26,11 +26,11 @@ window.startQuiz = function () {
 };
 
 
-   function displayQuestion(index) {
+function displayQuestion(index) {
     const question = questions[index];
     const questionNumber = question.querySelector('number').textContent;
     const exam = question.querySelector('exam');
-    const questionText = question.querySelector('text').textContent;
+    const questionText = question.querySelector('text').innerHTML; // Use innerHTML to preserve formatting
     const options = question.querySelectorAll('options option');
     const extraContent = question.querySelector('extraContent').innerHTML;
 
@@ -41,7 +41,7 @@ window.startQuiz = function () {
         <div><em>${exam.querySelector('organization').textContent}</em></div>
         <div><em>${exam.querySelector('year').textContent}</em></div>
         <div><em>${exam.querySelector('subject').textContent}</em></div>
-        <div>${questionText}</div>
+        <div>${questionText}</div> <!-- Use questionText here -->
         <div class="image-container">${extraContent}</div>
     `;
 
@@ -72,6 +72,8 @@ window.startQuiz = function () {
     // Limpa o feedback de resposta antes do botão "Mostrar Resposta"
     document.getElementById('feedback-container').innerHTML = '';
 }
+
+
 
 
     function selectOption(optionElement, correct, questionIndex, optionIndex) {
