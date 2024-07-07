@@ -294,7 +294,7 @@ O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de
         A regra de Taylor é uma das ferramentas mais utilizadas pela maioria dos Bancos Centrais, no manejo da política monetária. Elaborada pelo economista John Taylor, em 1993, ela pode ser expressa pela equação:<br> </br>
         it = r* + πt + α (πt - π*) + β ((Yt - Yt*) / Yt*)<br> </br>
 
-        em que i é a taxa básica de juros de curto prazo; r* é a taxa de juros real neutra; π, a taxa de inflação observada; π*, a meta de inflação; Y, o PIB real observado; Y*, o PIB real potencial de pleno-emprego; t, o período temporal considerado; e α e β são coeficientes positivos escolhidos pelo Banco Central.<br> </br>
+        em que i é a taxa básica de juros de curto prazo;<br> </br> r* é a taxa de juros real neutra;<br> </br> π, a taxa de inflação observada;<br> </br> π*, a meta de inflação;<br> </br> Y, o PIB real observado;<br> </br> Y*, o PIB real potencial de pleno-emprego;<br> </br> t, o período temporal considerado; e α e β são coeficientes positivos escolhidos pelo Banco Central.<br> </br>
 
         Admita que uma determinada economia apresente taxas de inflação observadas superiores à meta de inflação e hiatos do produto positivos, ao longo de determinado período.<br> </br>
 
@@ -348,7 +348,7 @@ O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de
         <year>2022</year>
         <subject>ECONOMIA</subject>
     </exam>
-    <text>O modelo de crescimento econômico de Solow baseia-se numa função agregada de produção, expressa na forma Q = K^(1-α) * L^α * A(t), em que Q é o nível do produto; K, o estoque de capital da economia; L, a força de trabalho; A(t), o estado da tecnologia no tempo t; e 1 - α e α são coeficientes técnicos que representam os retornos dos fatores capital e trabalho, respectivamente.
+    <text>O modelo de crescimento econômico de Solow baseia-se numa função agregada de produção, expressa na forma <br></br> Q = K^(1-α) * L^α * A(t),<br></br> em que Q é o nível do produto;<br></br> K, o estoque de capital da economia;<br></br> L, a força de trabalho;<br></br> A(t), o estado da tecnologia no tempo t;<br></br> e 1 - α e α são coeficientes técnicos que representam os retornos dos fatores capital e trabalho, respectivamente.<br></br>
 
 Com base nas hipóteses do modelo de Solow, um dos mais influentes na teoria neoclássica de crescimento econômico, verifica-se que:</text>
     <options>
