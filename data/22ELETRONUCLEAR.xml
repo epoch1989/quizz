@@ -1,0 +1,147 @@
+<quiz>
+
+<question id="1">
+    <number>1 (26)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>CONHECIMENTOS ESPECÍFICOS</subject>
+    </exam>
+    <text>O conceito de transição energética atual está relacionado a grandes mudanças na matriz energética no mundo. Essa transformação ocorre na direção de uma economia de</text>
+    <options>
+        <option correct="true">baixo carbono e menor pegada ambiental</option>
+        <option correct="false">baixo carbono e maior pegada ambiental</option>
+        <option correct="false">alto carbono e menor pegada ambiental</option>
+        <option correct="false">alto carbono e menor pegada hídrica</option>
+        <option correct="false">alto metano e menor pegada hídrica</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>A transição energética atual visa reduzir as emissões de gases de efeito estufa, principalmente dióxido de carbono (CO₂), e diminuir a pegada ambiental. O objetivo é mover-se para uma economia de baixo carbono, utilizando fontes de energia renováveis e tecnologias mais eficientes que resultem em menores impactos ambientais.</answer>
+</question>
+
+<question id="2">
+    <number>2 (27)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>CONHECIMENTOS ESPECÍFICOS</subject>
+    </exam>
+    <text>Nas últimas décadas, observou-se enorme transferência de fábricas operadas por filiais de empresas multinacionais para os países em desenvolvimento da Ásia. A tendência de fragmentação da produção de bens e serviços, em afiliadas localizadas em diferentes países, refletiu a opção estratégica das empresas multinacionais por especialização em produtos finais, partes, peças e componentes, levando à disseminação do que se convencionou denominar cadeias globais de valor.
+De acordo com a nova teoria do comércio internacional, os principais fatores que explicam a disseminação das cadeias globais de valor são:</text>
+    <options>
+        <option correct="false">o esgotamento das oportunidades de lucro nos países de origem das empresas multinacionais e os elevados salários nos países hospedeiros.</option>
+        <option correct="false">a escassez de mão de obra nos países de origem das empresas multinacionais e a abundância de matérias-primas nos países hospedeiros.</option>
+        <option correct="false">a abundância de capital e os baixos salários nos países hospedeiros.</option>
+        <option correct="false">os diferenciais de preços de matérias-primas e a falta de concorrência nos países de origem das empresas multinacionais.</option>
+        <option correct="true">os diferenciais de custos de produção entre países e as enormes economias de escala requeridas no processo de fabricação.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>A nova teoria do comércio internacional considera fatores como os diferenciais de custos de produção entre países e as economias de escala que podem ser obtidas. Empresas multinacionais fragmentam suas cadeias de valor globalmente para tirar proveito dos custos mais baixos em certos países e das economias de escala que resultam da produção em grande escala.</answer>
+</question>
+
+<question id="3">
+    <number>3 (28)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>CONHECIMENTOS ESPECÍFICOS</subject>
+    </exam>
+    <text>O período 1967-1973 marcou uma das fases mais dinâmicas da economia brasileira, quando a taxa média de crescimento do Produto Interno Bruto (PIB) anual foi de 10,2%, alcançando um pico de 14% em 1973. A despeito do inquestionável dinamismo da economia, o período é também conhecido como “milagre” brasileiro.
+Uma das distorções flagrantes do “milagre” foi o(a):</text>
+    <options>
+        <option correct="false">reduzido grau de intervenção do Estado na economia brasileira.</option>
+        <option correct="false">fraco dinamismo da demanda interna.</option>
+        <option correct="true">aumento da concentração da renda nacional, em favor dos estratos mais ricos da população.</option>
+        <option correct="false">baixa taxa de crescimento do investimento bruto.</option>
+        <option correct="false">enorme capacidade ociosa observada no subperíodo 1970-1973.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>O período do "milagre econômico" brasileiro, entre 1967 e 1973, foi marcado por um forte crescimento econômico. No entanto, uma das grandes distorções desse período foi o aumento da concentração de renda, beneficiando principalmente os estratos mais ricos da população. Esse crescimento não foi distribuído de forma equitativa, resultando em desigualdades sociais significativas.</answer>
+</question>
+
+<question id="4">
+    <number>4 (29)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>CONHECIMENTOS ESPECÍFICOS</subject>
+    </exam>
+    <text>De acordo com os dados do IBGE, o Brasil apresentou os seguintes valores acumulados, em R$ milhões, valores aproximados, concernentes à oferta e à demanda agregadas em 2020:</text>
+    <extraContent>
+        <table>
+            <tr>
+                <th>Categoria</th>
+                <th>Valor (R$ milhões)</th>
+            </tr>
+            <tr>
+                <td>Valor Adicionado da Agropecuária</td>
+                <td>440.085</td>
+            </tr>
+            <tr>
+                <td>Valor Adicionado da Indústria</td>
+                <td>1.321.892</td>
+            </tr>
+            <tr>
+                <td>Valor Adicionado do Setor de Serviços</td>
+                <td>4.689.305</td>
+            </tr>
+            <tr>
+                <td>Impostos Líquidos</td>
+                <td>1.016.334</td>
+            </tr>
+            <tr>
+                <td>Consumo das Famílias</td>
+                <td>4.696.416</td>
+            </tr>
+            <tr>
+                <td>Consumo do Governo</td>
+                <td>1.529.313</td>
+            </tr>
+            <tr>
+                <td>Formação Bruta de Capital Fixo</td>
+                <td>1.240.167</td>
+            </tr>
+            <tr>
+                <td>Variação de Estoques</td>
+                <td>-50.530</td>
+            </tr>
+            <tr>
+                <td>Exportações</td>
+                <td>1.254.192</td>
+            </tr>
+            <tr>
+                <td>Importações</td>
+                <td>1.201.942</td>
+            </tr>
+        </table>
+    </extraContent>
+    <options>
+        <option correct="false">5.434.948</option>
+        <option correct="false">6.451.282</option>
+        <option correct="false">7.465.896</option>
+        <option correct="true">7.467.616</option>
+        <option correct="false">9.871.500</option>
+    </options>
+    <answer>O cálculo do PIB pode ser feito pelo lado da oferta e pelo lado da demanda. Ambos os métodos, ao considerar os valores fornecidos, resultam em um PIB de R$ 7.467.616 milhões. Assim, a alternativa correta é a opção D.</answer>
+</question>
+
+
+
+
+
+
+
+
+</quiz>
+
+
