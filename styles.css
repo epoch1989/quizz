@@ -148,7 +148,9 @@ body {
     font-weight: bold;
     text-align: right;
 }
-
+.align-left {
+    text-align: left;
+}
 @media (max-width: 600px) {
     .container {
         padding: 10px;
@@ -174,4 +176,7 @@ body {
     .header h1 {
         font-size: 1.5em;
     }
+    .align-left {
+    text-align: left;
+}
 }

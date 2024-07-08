@@ -1,7 +1,7 @@
 <quiz>
 
 <question id="1">
-    <number>1 (26)</number>
+    <number>(26)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -23,7 +23,7 @@
 </question>
 
 <question id="2">
-    <number>2 (27)</number>
+    <number>(27)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -42,11 +42,12 @@ De acordo com a nova teoria do comércio internacional, os principais fatores qu
     <extraContent>
         <!-- Espaço para textos ou gráficos adicionais -->
     </extraContent>
-    <answer>A nova teoria do comércio internacional considera fatores como os diferenciais de custos de produção entre países e as economias de escala que podem ser obtidas. Empresas multinacionais fragmentam suas cadeias de valor globalmente para tirar proveito dos custos mais baixos em certos países e das economias de escala que resultam da produção em grande escala.</answer>
+    <answer>A nova teoria do comércio internacional considera fatores como os diferenciais de custos de produção entre países e as economias de escala que podem ser obtidas. Empresas multinacionais fragmentam suas cadeias de valor globalmente para tirar proveito dos custos mais baixos em certos países e das economias de escala que resultam da produção em grande escala.
+    </answer>
 </question>
 
 <question id="3">
-    <number>3 (28)</number>
+    <number>(28)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -65,11 +66,12 @@ Uma das distorções flagrantes do “milagre” foi o(a):</text>
     <extraContent>
         <!-- Espaço para textos ou gráficos adicionais -->
     </extraContent>
-    <answer>O período do "milagre econômico" brasileiro, entre 1967 e 1973, foi marcado por um forte crescimento econômico. No entanto, uma das grandes distorções desse período foi o aumento da concentração de renda, beneficiando principalmente os estratos mais ricos da população. Esse crescimento não foi distribuído de forma equitativa, resultando em desigualdades sociais significativas.</answer>
+    <answer>O período do "milagre econômico" brasileiro, entre 1967 e 1973, foi marcado por um forte crescimento econômico. No entanto, uma das grandes distorções desse período foi o aumento da concentração de renda, beneficiando principalmente os estratos mais ricos da população. Esse crescimento não foi distribuído de forma equitativa, resultando em desigualdades sociais significativas.
+    </answer>
 </question>
 
 <question id="4">
-    <number>4 (29)</number>
+    <number>(29)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -132,11 +134,12 @@ Uma das distorções flagrantes do “milagre” foi o(a):</text>
         <option correct="true">7.467.616</option>
         <option correct="false">9.871.500</option>
     </options>
-    <answer>O cálculo do PIB pode ser feito pelo lado da oferta e pelo lado da demanda. Ambos os métodos, ao considerar os valores fornecidos, resultam em um PIB de R$ 7.467.616 milhões. Assim, a alternativa correta é a opção D.</answer>
+    <answer>O cálculo do PIB pode ser feito pelo lado da oferta e pelo lado da demanda. Ambos os métodos, ao considerar os valores fornecidos, resultam em um PIB de R$ 7.467.616 milhões. Assim, a alternativa correta é a opção D.
+    </answer>
 </question>
 
 <question id="5">
-    <number>5 (30)</number>
+    <number>(30)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -144,7 +147,8 @@ Uma das distorções flagrantes do “milagre” foi o(a):</text>
         <subject>CONHECIMENTOS ESPECÍFICOS</subject>
     </exam>
     <text>Segundo o IBGE, o Produto Interno Bruto real (PIB real) do Brasil teve contração de 4,1%, em 2020, configurando o maior recuo da série histórica desde 1996.
-O indicador que confirma o quadro de recessão econômica no Brasil em 2020 é o(a)</text>
+O indicador que confirma o quadro de recessão econômica no Brasil em 2020 é o(a)
+    </text>
     <options>
         <option correct="true">hiato do produto negativo</option>
         <option correct="false">pleno-emprego</option>
@@ -155,11 +159,12 @@ O indicador que confirma o quadro de recessão econômica no Brasil em 2020 é o
     <extraContent>
         <!-- Espaço para textos ou gráficos adicionais -->
     </extraContent>
-    <answer>Durante uma recessão econômica, o hiato do produto é negativo, indicando que a economia está operando abaixo do seu potencial. O hiato do produto é a diferença entre o PIB real e o PIB potencial. Quando o PIB real está abaixo do PIB potencial, a economia não está utilizando plenamente seus recursos, o que é característico de um período de recessão.</answer>
+    <answer>Durante uma recessão econômica, o hiato do produto é negativo, indicando que a economia está operando abaixo do seu potencial. O hiato do produto é a diferença entre o PIB real e o PIB potencial. Quando o PIB real está abaixo do PIB potencial, a economia não está utilizando plenamente seus recursos, o que é característico de um período de recessão.
+    </answer>
 </question>
 
 <question id="6">
-    <number>6 (31)</number>
+    <number>(31)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -181,7 +186,7 @@ O indicador que confirma o quadro de recessão econômica no Brasil em 2020 é o
 Outros fatores que aumentam os meios de pagamento incluem a criação de novos depósitos à vista, a emissão de papel-moeda e o aumento das reservas bancárias.</answer>
 </question>
 <question id="7">
-    <number>7 (32)</number>
+    <number>(32)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -207,7 +212,7 @@ Um aumento na oferta de moeda (M), mantendo constante a velocidade da moeda (V) 
 
 
 <question id="8">
-    <number>8 (33)</number>
+    <number>(33)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -232,7 +237,7 @@ A confusão pode ocorrer porque a taxa de juros nominal é frequentemente associ
 </question>
 
 <question id="9">
-    <number>9 (34)</number>
+    <number>(34)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -259,7 +264,7 @@ De acordo com Keynes, as decisões de investimento nas economias capitalistas s�
 </question>
 
 <question id="10">
-    <number>10 (35)</number>
+    <number> (35)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -282,8 +287,8 @@ De acordo com Keynes, as decisões de investimento nas economias capitalistas s�
 O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de metas de inflação, o foco principal é na taxa de juros. O controle direto de preços de bens e serviços (B) e dos bens e serviços administrados (C) não são práticas comuns ou eficazes no regime de metas de inflação. O controle dos salários nominais (E) não é utilizado como o principal instrumento de controle da inflação no regime de metas.</answer>
 </question>
 
-<question>
-    <number>11 (36)</number>
+<question id="11">
+    <number> (36)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -319,7 +324,7 @@ O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de
 </question>
 
 <question id="12">
-    <number>12 (37)</number>
+    <number>(37)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -341,7 +346,7 @@ O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de
 </question>
 
 <question id="13">
-    <number>13 (38)</number>
+    <number>(38)</number>
     <exam>
         <name>ELETRONUCLEAR22</name>
         <organization>CESGRANRIO</organization>
@@ -359,14 +364,736 @@ Com base nas hipóteses do modelo de Solow, um dos mais influentes na teoria neo
         <option correct="false">os fatores capital e trabalho estão sujeitos à mesma taxa de variação ao longo do tempo</option>
     </options>
     <extraContent>
-        <image src="data/img/22eletronuclear38.jpg" alt="Equação de Solow" />
+        <img src="data/img/22eletronuclear38.jpg" alt="Equação de Solow" /></img>
     </extraContent>
     <answer>No modelo de crescimento de Solow, o progresso técnico é considerado uma variável exógena. Ele é frequentemente estimado como um resíduo, conhecido como o "resíduo de Solow" ou "fator de Solow", que capta o crescimento do produto não explicado pelo aumento dos fatores de produção (capital e trabalho). Este resíduo é interpretado como o efeito do progresso técnico.
 
 A alternativa (A) está incorreta porque a função agregada de produção no modelo de Solow está sujeita a retornos constantes de escala, não crescentes. A alternativa (C) está incorreta porque no modelo de Solow, o progresso técnico é exógeno, não endógeno. A alternativa (D) está incorreta porque no modelo de Solow, o fator capital está sujeito a rendimentos decrescentes, não crescentes. A alternativa (E) está incorreta porque os fatores capital e trabalho não estão sujeitos à mesma taxa de variação ao longo do tempo.</answer>
 </question>
 
+<question id="14">
+    <number>(39)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>O texto seguinte alude às mudanças ocorridas na economia brasileira, a partir da primeira metade da década de 1930.
 
+"O que parece ter sido decisivo para que Furtado identificasse pré-keynesianismo em Vargas, e não, por exemplo, em Epitácio Pessoa, é a imagem impressionante da queima dos estoques de café tão aparentada à construção de pirâmides ou ao cavar buracos mencionados por Keynes. É, entretanto, a disposição de acomodar o choque fiscal, através de aumento do déficit público, o elemento que permite, com adequação, que se possa afirmar que a política econômica do Governo Provisório tenha sido pré-keynesiana."
+
+ABREU, M. P. Crise, crescimento e modernização autoritária: 1930-1945. In M. P. Abreu (org.). A Ordem do Progresso: Cem Anos de Política Econômica Republicana – 1889-1989. Rio de Janeiro: Editora Campus, p. 81. Adaptado.
+
+Os eventos descritos no texto fazem menção à análise de Celso Furtado a respeito das mudanças ocorridas na economia brasileira, após a crise de 1929.
+
+A principal mudança a que se refere o texto é o(a):</text>
+    <options>
+        <option correct="false">setor externo como motor de crescimento da economia brasileira</option>
+        <option correct="false">ajuste fiscal ocorrido na primeira metade da década de 1930</option>
+        <option correct="true">mercado interno como fonte dinâmica de crescimento da economia brasileira</option>
+        <option correct="false">liberalização do comércio exterior ocorrida na primeira metade da década de 1930</option>
+        <option correct="false">política econômica de cunho liberal que se seguiu à crise de 1929</option>
+    </options>
+    <extraContent>
+        <blockquote>
+        "O que parece ter sido decisivo para que Furtado identificasse pré-keynesianismo em Vargas, e não, por exemplo, em Epitácio Pessoa, é a imagem impressionante da queima dos estoques de café tão aparentada à construção de pirâmides ou ao cavar buracos mencionados por Keynes. É, entretanto, a disposição de acomodar o choque fiscal, através de aumento do déficit público, o elemento que permite, com adequação, que se possa afirmar que a política econômica do Governo Provisório tenha sido pré-keynesiana."
+        </blockquote>
+        <reference>ABREU, M. P. Crise, crescimento e modernização autoritária: 1930-1945. In M. P. Abreu (org.). A Ordem do Progresso: Cem Anos de Política Econômica Republicana – 1889-1989. Rio de Janeiro: Editora Campus, p. 81. Adaptado.</reference>
+    </extraContent>
+    <answer>A análise de Celso Furtado sobre a política econômica do Governo Provisório de Vargas destaca a disposição em acomodar o choque fiscal através do aumento do déficit público, caracterizando essa política como pré-keynesiana. No entanto, a principal mudança na economia brasileira mencionada no texto é a mudança do foco do setor externo para o mercado interno como a fonte dinâmica de crescimento da economia. A política de queima de estoques de café e a ênfase no déficit público para estimular a economia são indicativos dessa transição para uma economia mais voltada para o mercado interno.
+
+A alternativa (B) é incorreta porque, embora o ajuste fiscal e o aumento do déficit público sejam discutidos, a mudança principal é a ênfase no mercado interno.</answer>
+</question>
+
+
+<question id="15">
+    <number>(40)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>O trecho seguinte alude aos limites de uma estratégia de crescimento financiada por poupança externa.<br></br>
+    (texto abaixo)<br></br>
+    De acordo com o autor, um país que se guia por uma estratégia de “crescimento com poupança externa”</text>
+    <options>
+        <option correct="false">provoca a apreciação da taxa de câmbio e, consequentemente, a redução do consumo das famílias.</option>
+        <option correct="false">acelera sua taxa de investimento, como proporção no PIB.</option>
+        <option correct="false">aumenta sua taxa de poupança interna, como proporção do PIB.</option>
+        <option correct="true">aumenta sua dependência de capitais estrangeiros.</option>
+        <option correct="false">aumenta a competitividade de suas exportações.</option>
+    </options>
+    <extraContent>
+        <blockquote>
+        "Quando um país decide aceitar essa proposta de 'crescimento com poupança externa', a primeira consequência é a apreciação da taxa de câmbio. Em seguida, do lado da oferta, ocorre o aumento artificial dos salários, e, em consequência, o aumento do consumo interno [...]. Do lado da demanda, o resultado é o mesmo: a apreciação da moeda provoca a diminuição das oportunidades de investimento lucrativo voltadas para a exportação; caem os investimentos e, em termos keynesianos, cai a poupança interna. Mais amplamente, o endividamento externo provoca uma sucessão de três males: primeiro, temos uma elevada taxa de substituição da poupança interna pela externa, grande parte das entradas de capitais financiando o consumo ao invés do investimento; segundo, temos o aumento do endividamento externo que leva o país a uma condição de fragilidade externa e à política desastrosa do confidence building, a aceitar sem crítica as recomendações de nossos credores e concorrentes; e, terceiro, temos a crise de balanço de pagamentos."
+        </blockquote>
+        <reference>BRESSER-PEREIRA, L.C. Déficits, câmbio e crescimento. O Estado de São Paulo, São Paulo, mar.2010. Adaptado.</reference>
+    </extraContent>
+    <answer>De acordo com o autor, um país que se guia por uma estratégia de “crescimento com poupança externa” aumenta sua dependência de capitais estrangeiros. Isso é evidenciado pela apreciação da taxa de câmbio, aumento artificial dos salários, redução das oportunidades de investimento lucrativo voltado para a exportação e consequente queda da poupança interna. Essa estratégia também leva ao endividamento externo e à fragilidade econômica, conforme descrito no texto.
+
+A alternativa (A) é incorreta porque, apesar da apreciação da taxa de câmbio, o consumo interno aumenta em vez de diminuir. A alternativa (E) é incorreta porque a apreciação da moeda reduz a competitividade das exportações, não a aumenta.</answer>
+</question>
+
+<question id="16">
+    <number>(41)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>De acordo com a teoria das vantagens comparativas, nas versões de Heckscher-Ohlin e Samuelson, quando um país em desenvolvimento adota um programa radical de liberalização comercial, caracterizado pela redução linear de todas as tarifas de importação de mercadorias, o efeito será o aumento das(os)</text>
+    <options>
+        <option correct="false">importações dos bens, cuja produção utiliza intensivamente o fator de produção abundante do país.</option>
+        <option correct="true">importações dos bens, cuja produção utiliza intensivamente o fator de produção escasso do país.</option>
+        <option correct="false">exportações dos bens, cuja produção utiliza intensivamente o fator de produção escasso do país.</option>
+        <option correct="false">salários relativos nos setores produtores dos bens, que utilizam intensivamente o fator de produção escasso do país.</option>
+        <option correct="false">lucros nos setores produtores dos bens, que utilizam intensivamente o fator de produção escasso do país.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>De acordo com a teoria das vantagens comparativas, nas versões de Heckscher-Ohlin e Samuelson, a liberalização comercial radical, caracterizada pela redução linear de todas as tarifas de importação, leva ao aumento das importações dos bens cuja produção utiliza intensivamente o fator de produção escasso do país. A teoria sugere que, ao se abrir para o comércio, o país importará bens que não pode produzir de forma eficiente, ou seja, aqueles que utilizam intensivamente seus fatores de produção escassos.
+
+A alternativa (A) é incorreta porque a produção nacional tende a se especializar em bens que utilizam intensivamente o fator de produção abundante, exportando esses bens, e não importando-os.</answer>
+</question>
+
+<question id="17">
+    <number>(42)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>Considere um setor que produza um bem, sob condições de monopólio, no Brasil. Se o governo anunciar um aumento da tarifa aduaneira ad valorem de importação desse produto, comparativamente à situação vigente antes da mudança da tarifa, os efeitos serão:</text>
+    <options>
+        <option correct="true">aumento do preço e da produção locais e redução das importações.</option>
+        <option correct="false">aumento do preço e da produção locais e aumento das importações.</option>
+        <option correct="false">aumento do preço local, redução da produção local e aumento das importações.</option>
+        <option correct="false">aumento do preço local, manutenção da produção local e redução das importações.</option>
+        <option correct="false">manutenção do preço e da produção locais e redução das importações.</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>Um aumento da tarifa aduaneira ad valorem sobre um produto importado resultará em um aumento do preço local desse produto devido à menor competição dos produtos importados. A produção local aumentará porque os produtores locais podem vender a um preço mais alto sem perder mercado. As importações diminuirão porque o produto importado se torna mais caro e menos competitivo em relação ao produto local.
+     Monopólio: Um mercado onde existe apenas um vendedor que controla a oferta de um bem ou serviço.
+    Tarifa Aduaneira Ad Valorem: Um imposto sobre importações calculado como uma porcentagem do valor do produto importado.
+</answer>
+</question>
+
+<question id="18">
+    <number>(43)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>O Plano Real, implementado a partir de 1994, é avaliado como um dos mais importantes e bem-sucedidos programas de estabilização inflacionária no Brasil. Um dos fatores que contribuíram para o sucesso do Plano Real foi a(o):</text>
+    <options>
+        <option correct="false">redução dos influxos de capital estrangeiro, ocorrida ao longo do plano de estabilização.</option>
+        <option correct="false">postergação do programa de liberalização comercial, em curso desde 1990, e que deveria ser finalizado em 1994.</option>
+        <option correct="false">estratégia bem-sucedida de congelamento de preços e salários ao longo do processo de estabilização.</option>
+        <option correct="false">forte recessão econômica que se seguiu imediatamente após o plano de estabilização.</option>
+        <option correct="true">uso da chamada âncora cambial, que, por meio de um sistema de câmbio semifixo em bandas cambiais, levou à sobrevalorização da moeda nacional recém-introduzida (o Real).</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>O Plano Real implementou uma série de medidas econômicas e fiscais para estabilizar a inflação e trazer estabilidade econômica ao Brasil. Uma das estratégias principais foi a introdução da âncora cambial, que fixou a nova moeda (o Real) a uma faixa cambial, permitindo uma relativa estabilidade e controle sobre a inflação. Essa medida ajudou a reduzir a hiperinflação e estabilizar a economia.
+
+A alternativa (C) é incorreta porque o congelamento de preços e salários não foi uma característica do Plano Real, e sim de planos anteriores, como o Plano Cruzado.</answer>
+</question>
+</quiz>
+
+<question id="19">
+    <number>(44)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>No período 1950-1980, o processo de desenvolvimento econômico brasileiro norteou-se pela adoção de diversos Planos Nacionais de Desenvolvimento, visando a acelerar a industrialização e melhorar as condições sociais. Um desses Planos, implementado no período 1956-1960, por ter mobilizado incentivos direcionados a diversos setores da economia brasileira, como infraestrutura, indústrias de bens de capital e bens de consumo duráveis, entre outros, é avaliado como um dos mais sólidos programas em prol da industrialização no Brasil. O programa mencionado, efetivado no período 1956-1960, é o:</text>
+    <options>
+        <option correct="false">I Plano Nacional de Desenvolvimento (I PND)</option>
+        <option correct="false">II Plano Nacional de Desenvolvimento (II PND)</option>
+        <option correct="true">Plano de Metas</option>
+        <option correct="false">Plano Trienal</option>
+        <option correct="false">Plano Brasil Maior</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>O plano implementado entre 1956 e 1960 é o Plano de Metas, que foi elaborado e executado durante o governo de Juscelino Kubitschek. Este plano tinha como slogan "50 anos em 5" e buscava acelerar o desenvolvimento industrial e a infraestrutura do Brasil.
+
+Resumo dos outros planos mencionados:
+- **I Plano Nacional de Desenvolvimento (I PND)**: Implementado no período de 1972 a 1974 durante o governo de Emílio Garrastazu Médici, visava a infraestrutura e a integração nacional, com grandes projetos como a Transamazônica.
+- **II Plano Nacional de Desenvolvimento (II PND)**: Implementado entre 1975 e 1979 durante o governo de Ernesto Geisel, focava na diversificação industrial e na substituição de importações, além de grandes projetos de infraestrutura.
+- **Plano Trienal**: Lançado em 1963 durante o governo de João Goulart, visava combater a inflação e promover o crescimento econômico, mas enfrentou dificuldades políticas e econômicas.
+- **Plano Brasil Maior**: Implementado em 2011 durante o governo de Dilma Rousseff, focava em estimular a inovação e a competitividade industrial.
+
+A alternativa (B) é incorreta porque o II Plano Nacional de Desenvolvimento foi implementado entre 1975 e 1979, focando na diversificação industrial e na substituição de importações, além de grandes projetos de infraestrutura.</answer>
+</question>
+<question id="20">
+    <number>(45)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>Nas últimas décadas, houve significativa diminuição da importância relativa do setor manufatureiro na economia brasileira. Segundo dados do IBGE, a participação do valor adicionado da indústria de transformação no PIB brasileiro já havia declinado, em termos reais, de 15,7% para 11,9%, entre 2000 e 2020, após ter alcançado um pico de 21,4%, em 1976. Os indicadores estão associados ao fenômeno conhecido como:</text>
+    <options>
+        <option correct="false">financeirização</option>
+        <option correct="false">hiperinflação</option>
+        <option correct="true">desindustrialização</option>
+        <option correct="false">reprimarização</option>
+        <option correct="false">depressão</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>O fenômeno descrito na questão, em que há uma redução da participação do setor manufatureiro no PIB ao longo do tempo, é conhecido como desindustrialização. A desindustrialização ocorre quando a indústria de transformação perde relevância econômica e é substituída por outros setores, como o de serviços.
+
+Explicação das outras alternativas:
+- **Financeirização**: Refere-se ao aumento da influência dos mercados financeiros, instituições e elites financeiras sobre as políticas econômicas e resultados econômicos.
+- **Hiperinflação**: Refere-se a taxas extremamente altas e fora de controle de inflação.
+- **Reprimarização**: Refere-se ao aumento da importância dos setores primários (agricultura, mineração) na economia em detrimento dos setores secundários (indústria).
+- **Depressão**: Refere-se a um período prolongado de declínio econômico significativo, mais grave do que uma recessão.</answer>
+</question>
+
+<question id="21">
+    <number>(46)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>MATEMÁTICA</subject>
+    </exam>
+    <text>
+        Seja X uma variável aleatória absolutamente contínua com função de distribuição acumulada dada por:<br></br>
+        Qual o valor do desvio padrão da variável aleatória X?
+    </text>
+    <options>
+        <option correct="false">1/3</option>
+        <option correct="false">2/5</option>
+        <option correct="true">√5/5</option>
+        <option correct="false">√15/4</option>
+        <option correct="false">√39/15</option>
+    </options>
+    <extraContent>
+        <img src="data\img\22eletronuclear46.jpg" alt="Função de distribuição acumulada"></img>
+    </extraContent>
+    <answer>
+        Para encontrar o desvio padrão da variável aleatória X, precisamos calcular a variância primeiro. A variância é a esperança do quadrado da variável menos o quadrado da esperança da variável.<br></br>
+        Passos para resolver a questão:<br></br>
+        1. Calcular a função densidade de probabilidade (f<sub>X</sub>(x)) derivando a função de distribuição acumulada (FX(x)).<br></br>
+        2. Calcular a esperança E(X) da variável aleatória X.<br></br>
+        3. Calcular E(X²) da variável aleatória X.<br></br>
+        4. Utilizar a fórmula da variância: Var(X) = E(X²) - (E(X))².<br></br>
+        5. O desvio padrão é a raiz quadrada da variância: σ = √Var(X).<br></br>
+        Após realizar esses cálculos, encontramos que o desvio padrão da variável aleatória X é √5/5.
+    </answer>
+</question>
+
+<question id="22">
+    <number>(47)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>MATEMÁTICA</subject>
+    </exam>
+    <text>
+        Uma variável econômica de interesse, U, é modelada como U = XY, com X e Y variáveis aleatórias, tais que X tem distribuição normal com média 8 e variância 20, e Y condicionada a X = x tem distribuição normal com média x e variância 10.<br></br>
+        Qual o valor da esperança matemática de U?
+    </text>
+    <options>
+        <option correct="false">84</option>
+        <option correct="false">64</option>
+        <option correct="false">170</option>
+        <option correct="false">160</option>
+        <option correct="true">80</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>
+        Para calcular a esperança matemática de U = XY, utilizamos a propriedade de que a esperança do produto de duas variáveis aleatórias, sendo uma delas condicionada à outra, é igual ao produto das esperanças condicionais:<br></br>
+        E(U) = E(XY) = E(X * E(Y|X))<br></br>
+        Sabemos que X tem distribuição normal com média 8 e variância 20, então E(X) = 8.<br></br>
+        Y, condicionado a X = x, tem distribuição normal com média x e variância 10, então E(Y|X) = X.<br></br>
+        Substituindo esses valores, obtemos:<br></br>
+        E(U) = E(X * E(Y|X)) = E(X * X) = E(X^2)<br></br>
+        Para encontrar E(X^2), usamos a relação:<br></br>
+        E(X^2) = Var(X) + [E(X)]^2 = 20 + 8^2 = 20 + 64 = 84<br></br>
+        Portanto, E(U) = 84, que é o valor correto para a esperança matemática de U.
+    </answer>
+</question>
+
+<question id="23">
+    <number>(48)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>MATEMÁTICA</subject>
+    </exam>
+    <text>
+        Para cada usuário que ingressa em um determinado aplicativo, um número PIN de quatro dígitos diferentes é gerado aleatoriamente pelo sistema.<br></br>
+        Tomados dois números PIN criados independentemente e de forma aleatória, qual a probabilidade de que eles tenham exatamente dois dígitos em comum?
+    </text>
+    <options>
+        <option correct="false">1/2</option>
+        <option correct="false">3/7</option>
+        <option correct="false">1/168</option>
+        <option correct="false">9/400</option>
+        <option correct="true">27/200</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para textos ou gráficos adicionais -->
+    </extraContent>
+    <answer>
+        Para calcular a probabilidade de que dois números PIN tenham exatamente dois dígitos em comum, precisamos considerar as combinações possíveis e a probabilidade de ocorrência.<br></br>
+        1. Escolher 2 dígitos em comum entre os 10 dígitos disponíveis (0 a 9).<br></br>
+        Combinação: C(10, 2) = 45<br></br>
+        2. Escolher 2 posições para esses dígitos em comum nos 4 dígitos de cada PIN.<br></br>
+        Combinação: C(4, 2) = 6<br></br>
+        3. Colocar os 2 dígitos em comum nas posições escolhidas. Existem 2! = 2 maneiras de organizar esses dígitos.<br></br>
+        4. Escolher os 2 dígitos restantes para o primeiro PIN entre os 8 dígitos restantes (já que 2 foram usados).<br></br>
+        Combinação: P(8, 2) = 8 × 7 = 56<br></br>
+        5. Escolher os 2 dígitos restantes para o segundo PIN entre os 8 dígitos restantes.<br></br>
+        Combinação: P(8, 2) = 8 × 7 = 56<br></br>
+        A probabilidade de que dois números PIN tenham exatamente dois dígitos em comum é:<br></br>
+        P = (45 × 6 × 2 × 56 × 56) / (10000 × 10000) = 27/200
+    </answer>
+</question>
+<question id="24">
+    <number>(49)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>MATEMÁTICA</subject>
+    </exam>
+    <text>
+        O salário líquido (S), em reais, de um determinado profissional é o salário bruto menos os descontos. O salário
+        bruto é a soma de uma parcela fixa, igual a R$5.000,00,
+        com uma parcela variável (a comissão) que é sempre
+        igual a 5% do valor total de suas vendas (v), em reais.
+        Ele desconta um total de 10% para previdência, sobre o
+        valor total do salário bruto e paga (desconta) 20% de Imposto de Renda sobre a diferença entre o salário bruto e
+        a previdência. Ele ainda desconta R$ 2.000,00 de plano
+        de saúde.
+        O salário líquido S, em função do valor total vendido v, em
+        reais, pode ser, algebricamente, expresso por:
+    </text>
+    <options>
+        <option correct="false">S = 0,72v + 3600</option>
+        <option correct="false">S = 0,36v + 4500</option>
+        <option correct="false">S = 0,36v + 1600</option>
+        <option correct="false">S = 0,036v + 1600</option>
+        <option correct="true">S = 0,072v + 3600</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para gráficos adicionais, se necessário -->
+    </extraContent>
+    <answer>
+        Para encontrar a expressão correta para o salário líquido \(S\) em função do valor total vendido \(v\), siga os passos abaixo:<br></br>
+        1. Calcular o salário bruto \(B\):<br></br>
+        \(B = 5000 + 0,05v\)<br></br>
+        2. Calcular o desconto para previdência (10% do salário bruto):<br></br>
+        \(\text{Previdência} = 0,10B = 500 + 0,005v\)<br></br>
+        3. Calcular a base de cálculo para o Imposto de Renda (salário bruto menos previdência):<br></br>
+        \(\text{Base IR} = B - \text{Previdência} = 4500 + 0,045v\)<br></br>
+        4. Calcular o desconto do Imposto de Renda (20% da base de cálculo):<br></br>
+        \(\text{IR} = 0,20 \times \text{Base IR} = 900 + 0,009v\)<br></br>
+        5. Calcular o total de descontos:<br></br>
+        \(\text{Total de descontos} = \text{Previdência} + \text{IR} + \text{Plano de saúde} = 3400 + 0,014v\)<br></br>
+        6. Calcular o salário líquido \(S\):<br></br>
+        \(S = B - \text{Total de descontos} = 1600 + 0,036v\)<br></br>
+        Portanto, a expressão correta é \(S = 0,036v + 1600\).
+    </answer>
+</question>
+
+<question id="25">
+    <number>(50)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>MATEMÁTICA</subject>
+    </exam>
+    <text>
+        O preço unitário \(p\) de um determinado equipamento varia
+        segundo a equação de demanda \(p = \sqrt{800 - x}\), em que \(x\)
+        é o número de equipamentos produzidos.
+        O número de equipamentos que devem ser produzidos e
+        vendidos para maximizar a receita \(R = p \cdot x\) é de, aproximadamente:
+    </text>
+    <options>
+        <option correct="false">400</option>
+        <option correct="false">466</option>
+        <option correct="true">533</option>
+        <option correct="false">586</option>
+        <option correct="false">600</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para gráficos adicionais, se necessário -->
+    </extraContent>
+    <answer>
+        Para maximizar a receita \(R\), calculamos a derivada da receita em relação ao número de equipamentos \(x\) e encontramos os pontos críticos:<br></br>
+        1. A receita \(R\) é dada por \(R = p \cdot x = \sqrt{800 - x} \cdot x\).<br></br>
+        2. Derivamos a função da receita: \(R'(x) = \frac{d}{dx} \left( x \cdot (800 - x)^{1/2} \right) = -\frac{x}{2} \cdot (800 - x)^{-1/2} + (800 - x)^{1/2}\).<br></br>
+        3. Igualamos a derivada a zero e resolvemos para \(x\):<br></br>
+        \(-\frac{x}{2} \cdot (800 - x)^{-1/2} + (800 - x)^{1/2} = 0\).<br></br>
+        4. Multiplicando ambos os lados por \(2(800 - x)^{1/2}\), obtemos:<br></br>
+        \(-x + 2(800 - x) = 0\).<br></br>
+        5. Resolvendo a equação, obtemos \(x = \frac{1600}{3} \approx 533.33\).<br></br>
+        Portanto, o número de equipamentos que devem ser produzidos e vendidos para maximizar a receita é aproximadamente 533.
+    </answer>
+</question>
+<question id="26">
+    <number>(51)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>CONTABILIDADE</subject>
+    </exam>
+    <text>
+        Na teoria contábil dominante, é convergente o entendimento técnico-conceitual de que os fatos administrativos
+        ou fatos contábeis, praticados pelas empresas, são registrados pelo método das partidas dobradas, mediante
+        lançamento.
+        Em termos técnicos, lançamento é a forma de a contabilidade registrar os fatos contábeis (administrativos), de
+        acordo com as normas contábeis vigentes (CFC-ITG 2000 e alterações).
+        Nesse enfoque do lançamento, analise o seguinte fato praticado pela comercial HL:<br></br>
+        Pagamento de uma obrigação, após o vencimento, acrescida de juros de mora, por débito em conta-corrente bancária.<br></br>
+        Desconsiderando-se os elementos do lançamento: data, histórico e valor, o registro contábil desse fato praticado
+        pelo comercial HL é feito por lançamento de:
+    </text>
+    <options>
+        <option correct="false">Primeira fórmula</option>
+        <option correct="false">Segunda fórmula</option>
+        <option correct="true">Terceira fórmula</option>
+        <option correct="false">Quarta fórmula</option>
+        <option correct="false">Quinta fórmula</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para gráficos adicionais, se necessário -->
+    </extraContent>
+    <answer>
+        Para o pagamento de uma obrigação, após o vencimento, acrescida de juros de mora, por débito em conta-corrente bancária, o lançamento contábil incluirá:<br></br>
+        1. Débito na conta de obrigação pelo valor principal da dívida.<br></br>
+        2. Débito na conta de juros de mora pela despesa financeira.<br></br>
+        3. Crédito na conta-corrente bancária pelo valor total pago (principal + juros).<br></br>
+        Portanto, temos dois débitos e um crédito, caracterizando a Terceira fórmula.
+    </answer>
+</question>
+
+<question id="27">
+    <number>(52)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>CONTABILIDADE</subject>
+    </exam>
+    <text>
+        Na análise das demonstrações financeiras, os indicadores contábeis representam avaliações realizadas com
+        o objetivo de poderem auxiliar os diversos usuários das informações das empresas, quer internos, quer externos,
+        nas suas tomadas de decisão.<br></br>
+        Nesse enfoque da validade dos indicadores contábeis na formação de opinião sobre as empresas, analise as seguintes anotações, feitas na análise das demonstrações contábeis da companhia UU:<br></br>
+        Ativo total 4.000.000,00<br></br>
+        Capital próprio 1.800.000,00<br></br>
+        Passivo de curto prazo 1.155.000,00<br></br>
+        Considerando-se as anotações apresentadas, o perfil da dívida (composição do endividamento) da companhia UU, em percentual, é
+    </text>
+    <options>
+        <option correct="true">28,88%</option>
+        <option correct="false">45,00%</option>
+        <option correct="false">52,50%</option>
+        <option correct="false">55,00%</option>
+        <option correct="false">64,17%</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para gráficos adicionais, se necessário -->
+    </extraContent>
+    <answer>
+        O perfil da dívida ou composição do endividamento pode ser calculado utilizando a fórmula:<br></br>
+        Perfil da Dívida (%) = (Passivo de Curto Prazo / Ativo Total) × 100<br></br>
+        Dados fornecidos:<br></br>
+        Ativo Total: R$ 4.000.000,00<br></br>
+        Capital Próprio: R$ 1.800.000,00<br></br>
+        Passivo de Curto Prazo: R$ 1.155.000,00<br></br>
+        Cálculo:<br></br>
+        1. Calculando o perfil da dívida:<br></br>
+        Perfil da Dívida (%) = (1.155.000,00 / 4.000.000,00) × 100<br></br>
+        2. Resolvendo a fração:<br></br>
+        1.155.000,00 / 4.000.000,00 = 0,28875<br></br>
+        3. Convertendo para percentual:<br></br>
+        0,28875 × 100 = 28,875%<br></br>
+        Portanto, o perfil da dívida (composição do endividamento) da companhia UU é aproximadamente 28,88%.
+    </answer>
+</question>
+
+<question id="28">
+    <number>(53)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ADMINISTRAÇÃO</subject>
+    </exam>
+    <text>
+        Uma das principais questões para uma adequada administração do Contas a Receber da empresa é a definição das suas políticas de crédito e de cobrança.<br></br>
+        Quando determinada empresa deseja aumentar seu volume de vendas, uma das alterações na política de crédito que pode contribuir para o aumento das vendas é a(o)
+    </text>
+    <options>
+        <option correct="false">redução dos limites de crédito dos clientes</option>
+        <option correct="true">concessão de crédito a clientes com maior risco</option>
+        <option correct="false">redução nos prazos de crédito</option>
+        <option correct="false">diminuição dos descontos financeiros</option>
+        <option correct="false">uso de critérios mais rigorosos para concessão de crédito</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para gráficos adicionais, se necessário -->
+    </extraContent>
+    <answer>
+        Para aumentar o volume de vendas, a concessão de crédito a clientes com maior risco pode ser uma estratégia eficaz.<br></br>
+        Análise das alternativas:<br></br>
+        (A) Redução dos limites de crédito dos clientes: Limita a capacidade de compra dos clientes a crédito, não aumentando as vendas.<br></br>
+        (B) Concessão de crédito a clientes com maior risco: Amplia a base de clientes que podem comprar a crédito, aumentando as vendas.<br></br>
+        (C) Redução nos prazos de crédito: Torna o pagamento mais rápido, o que pode ser uma barreira para alguns clientes.<br></br>
+        (D) Diminuição dos descontos financeiros: Torna a compra a crédito menos atrativa.<br></br>
+        (E) Uso de critérios mais rigorosos para concessão de crédito: Reduz a base de clientes que podem obter crédito, não aumentando as vendas.<br></br>
+        Portanto, a melhor opção para aumentar o volume de vendas é a concessão de crédito a clientes com maior risco.
+    </answer>
+</question>
+<question id="29">
+    <number>(54)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ADMINISTRAÇÃO</subject>
+    </exam>
+    <text>
+        A administração do capital de giro (circulante) abarca as decisões sobre o volume de recursos de que a empresa necessita para seu ciclo operacional, envolvendo basicamente o disponível, os valores a receber e os estoques.<br></br>
+        O Capital de Giro Líquido (CGL) representa o valor líquido dos investimentos realizados no ativo circulante da empresa.<br></br>
+        Transações que diminuem o CGL incluem
+    </text>
+    <options>
+        <option correct="false">aumento de capital com integralização de novas ações</option>
+        <option correct="false">venda de ativo permanente com recebimento à vista</option>
+        <option correct="false">geração de lucro líquido</option>
+        <option correct="true">aquisição de ativo permanente com pagamento à vista</option>
+        <option correct="false">novos financiamentos de longo prazo</option>
+    </options>
+    <extraContent>
+        <!-- Espaço para gráficos adicionais, se necessário -->
+    </extraContent>
+    <answer>
+        Análise das alternativas:<br></br>
+        (A) Aumento de capital com integralização de novas ações: Esta transação aumenta o capital de giro líquido, pois a empresa recebe novos recursos de acionistas.<br></br>
+        (B) Venda de ativo permanente com recebimento à vista: Esta transação aumenta o capital de giro líquido, pois transforma um ativo não circulante em disponível.<br></br>
+        (C) Geração de lucro líquido: A geração de lucro líquido normalmente aumenta o capital de giro líquido, pois contribui para o aumento dos recursos disponíveis.<br></br>
+        (D) Aquisição de ativo permanente com pagamento à vista: Esta transação diminui o capital de giro líquido, pois envolve a saída de recursos disponíveis (caixa) para a aquisição de um ativo não circulante.<br></br>
+        (E) Novos financiamentos de longo prazo: Novos financiamentos de longo prazo geralmente aumentam o capital de giro líquido, pois a empresa recebe novos recursos que podem ser usados no curto prazo.<br></br>
+        Portanto, a transação que diminui o Capital de Giro Líquido (CGL) é a aquisição de ativo permanente com pagamento à vista.
+    </answer>
+</question>
+<question id="30">
+    <number>(55)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>
+        A matriz abaixo descreve a interação estratégica de duas pessoas, A e B. As possíveis estratégias de A são A1, A2 e A3; as possíveis estratégias de B são B1 e B2. Em cada célula da matriz, correspondendo a uma combinação de estratégias de A e de B, aparecem dois números: o número à esquerda na célula é o ganho da pessoa A; o número à direita é o ganho da pessoa B.<br></br>
+        Para que B2 seja uma estratégia estritamente dominante do jogador B, é necessário que X seja
+    </text>
+    <options>
+        <option correct="false">maior do que 5</option>
+        <option correct="true">menor do que 5</option>
+        <option correct="false">igual a 6</option>
+        <option correct="false">igual a 7</option>
+        <option correct="false">maior do que 7</option>
+    </options>
+    <extraContent>
+        <img src="data/img/22eletronuclear55.jpg" alt="Tabela da interação estratégica"></img>
+    </extraContent>
+    <answer>
+        Para que B2 seja uma estratégia estritamente dominante do jogador B, o valor de X deve ser menor do que 5. Isso ocorre porque, ao comparar as estratégias B1 e B2, a pessoa B preferirá B2 se o valor de X for menor que o valor correspondente da estratégia B1. Neste caso, X deve ser menor do que 5 para que a estratégia B2 ofereça sempre um ganho maior do que B1 para a pessoa B.
+    </answer>
+</question>
+
+<question id="31">
+    <number>(56)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>
+        O bem X é negociado em um mercado competitivo, no qual ocorre um aumento da demanda. A quantidade e o preço de equilíbrio no mercado dobram, ambos, em relação ao equilíbrio inicial.<br></br>
+        Sendo assim, conclui-se que a(o)
+    </text>
+    <options>
+        <option correct="false">receita total dos produtores de X duplicou, com o aumento da demanda.</option>
+        <option correct="false">elasticidade renda da demanda por X é unitária.</option>
+        <option correct="true">elasticidade preço da oferta de X é igual a 1.</option>
+        <option correct="false">demanda por X é perfeitamente elástica, em relação a preço.</option>
+        <option correct="false">mercado em questão não é de fato competitivo.</option>
+    </options>
+    <answer>
+        A elasticidade preço da oferta é definida como a variação percentual na quantidade ofertada dividida pela variação percentual no preço. Se a quantidade ofertada dobra (aumenta 100%) quando o preço também dobra (aumenta 100%), a elasticidade preço da oferta é 100% / 100% = 1.<br></br>
+        Portanto, a elasticidade preço da oferta de X é igual a 1.
+    </answer>
+</question>
+
+<question id="32">
+    <number>(57)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>FINANÇAS</subject>
+    </exam>
+    <text>
+        O Valor em Risco (VAR) de R$ 100.000,00, calculado para certo projeto de investimento, em um horizonte de tempo de 5 anos, com 95% de confiança, significa que
+    </text>
+    <options>
+        <option correct="true">é 5% provável que o projeto em questão acarrete uma perda de R$ 100.000,00 ou mais, nos próximos 5 anos.</option>
+        <option correct="false">é 95% provável que o projeto em questão gere um Valor Presente Líquido negativo de R$ 100.000,00, nos próximos 5 anos.</option>
+        <option correct="false">é 95% provável que seja necessário aportar, para o projeto em questão, R$ 100.000,00 de investimento adicional, nos próximos 5 anos.</option>
+        <option correct="false">é 95% provável que o Valor Presente Líquido, do projeto em questão, nos próximos 5 anos, seja R$ 100.000,00 menor do que o Valor Presente Líquido estimado inicialmentes.</option>
+        <option correct="false">vale a pena realizar o projeto em questão, se o seu Valor Presente Líquido estimado, nos próximos 5 anos, for maior que R$ 100.000,00, com 5% de probabilidade.</option>
+    </options>
+    <extraContent></extraContent>
+    <answer>
+        A alternativa (A) é a correta: é 5% provável que o projeto em questão acarrete uma perda de R$ 100.000,00 ou mais, nos próximos 5 anos. Isso é exatamente o que o VaR representa. Com 95% de confiança, espera-se que a perda não exceda R$ 100.000,00. Portanto, há 5% de chance de a perda ser R$ 100.000,00 ou mais.
+    </answer>
+</question>
+
+
+
+
+
+
+
+<question id="33">
+    <number>(58)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>
+        Suponha que uma pessoa está escolhendo entre duas alternativas de investimento:<br></br>
+        (I) Investir hoje R$ 1.000,00 e receber, após 1 ano, com absoluta certeza, R$ 1.100,00.<br></br>
+        (II) Investir hoje R$ 1.000,00 e receber, após 1 ano, R$ 1.050,00 com 50% de probabilidade, ou R$ X com 50% de probabilidade.<br></br>
+        Logo, sempre que a pessoa for
+    </text>
+    <options>
+        <option correct="false">avessa em relação a risco e X = R$ 1.150,00, ela escolhe o investimento (II)</option>
+        <option correct="false">avessa em relação a risco e X = R$ 1.200,00, ela escolhe o investimento (I)</option>
+        <option correct="false">neutra em relação a risco e X = R$ 1.125,00, ela escolhe o investimento (II)</option>
+        <option correct="true">neutra em relação a risco e X = R$ 1.150,00, ela é indiferente entre os investimentos (I) e (II)</option>
+        <option correct="false">neutra em relação a risco e X = R$ 1.400,00, ela escolhe o investimento (I)</option>
+    </options>
+    <extraContent></extraContent>
+    <answer>
+        Para que o investidor neutro em relação ao risco seja indiferente entre os dois investimentos, o valor esperado do investimento II deve ser igual ao retorno certo do investimento I.<br></br>
+        Cálculo do valor esperado do investimento II:<br></br>
+        Valor Esperado = (1.050 x 0,5) + (X x 0,5)<br></br>
+        Para que a pessoa seja indiferente:<br></br>
+        (1.050 x 0,5) + (X x 0,5) = 1.100<br></br>
+        525 + 0,5X = 1.100<br></br>
+        0,5X = 1.100 - 525<br></br>
+        0,5X = 575<br></br>
+        X = 1.150<br></br>
+        Portanto, se X = R$ 1.150,00, a pessoa neutra em relação ao risco seria indiferente entre os investimentos (I) e (II).
+    </answer>
+</question>
+<question id="34">
+    <number>(59)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>
+        Um projeto de investimento apresenta o fluxo financeiro descrito no diagrama abaixo, onde as setas apontadas para cima da linha de referência de tempo representam recebimentos, e a seta para baixo representa gasto.<br></br>
+        Esse projeto tem um(a)
+    </text>
+    <options>
+        <option correct="false">Valor Presente Líquido de R$ 150,00, se a taxa de desconto usada for positiva.</option>
+        <option correct="false">Valor Presente Líquido positivo, se avaliado usando a Taxa Mínima de Atratividade de 15% por período.</option>
+        <option correct="true">Taxa Interna de Retorno de 10% por período.</option>
+        <option correct="false">Duration de 2 períodos.</option>
+        <option correct="false">Duration de 1 período.</option>
+    </options>
+    <extraContent>
+       <img  src="data/img/22eletronuclear59.jpg" alt="Fluxo de Caixa do Projeto"></img>
+    </extraContent>
+    <answer>
+        Para calcular a taxa interna de retorno (TIR), precisamos encontrar a taxa de desconto que faz o valor presente líquido (VPL) ser igual a zero.<br></br>
+        Passos de cálculo:<br></br>
+        1. Fluxos de Caixa:<br></br>
+        - Período 0: -R$ 1.000,00 (gasto)<br></br>
+        - Período 1: R$ 600,00 (recebimento)<br></br>
+        - Período 2: R$ 550,00 (recebimento)<br></br>
+        2. Valor Presente Líquido (VPL):<br></br>
+        VPL = \(\frac{600}{(1 + 0,10)^1} + \frac{550}{(1 + 0,10)^2} - 1000\)<br></br>
+        VPL = 0 quando a taxa de desconto é 10%<br></br>
+        3. Duration:<br></br>
+        Duration = \(\frac{1 \times \frac{600}{1,10} + 2 \times \frac{550}{1,21}}{\frac{600}{1,10} + \frac{550}{1,21}}\)<br></br>
+        Duration ≈ 1,45 períodos.<br></br>
+        Portanto, a resposta correta é (C) Taxa Interna de Retorno de 10% por período.
+    </answer>
+</question>
+
+<question id="35">
+    <number>(60)</number>
+    <exam>
+        <name>ELETRONUCLEAR22</name>
+        <organization>CESGRANRIO</organization>
+        <year>2022</year>
+        <subject>ECONOMIA</subject>
+    </exam>
+    <text>
+        Oito empresas, únicas produtoras de um certo bem X, se comportam no mercado de X como um oligopólio de Cournot. Todas as oito empresas são iguais, tendo o mesmo Custo Marginal = 30/unidade de X. A demanda total do mercado (Qd) é dada pela seguinte expressão:<br></br>
+        Qd = 100 – p, sendo p o preço de uma unidade de X. Logo, é possível afirmar que a(o)
+    </text>
+    <options>
+        <option correct="false">quantidade total negociada de X no mercado será maior do que 70.</option>
+        <option correct="true">receita total do conjunto de oligopolistas será a máxima possível.</option>
+        <option correct="false">elasticidade preço da oferta de X é igual a 8.</option>
+        <option correct="false">elasticidade preço da demanda por X é constante.</option>
+        <option correct="false">preço de mercado do bem X será maior do que 30/unidade de X.</option>
+    </options>
+    <extraContent></extraContent>
+    <answer>
+        1. A função de demanda inversa é \( p = 100 - Q \), onde \( Q \) é a quantidade total de X no mercado.<br></br>
+        2. A receita total para uma empresa \( i \) é \( RT_i = p \cdot q_i = (100 - Q) \cdot q_i \), onde \( Q = q_1 + q_2 + \ldots + q_8 \) e \( q_i \) é a produção da empresa \( i \).<br></br>
+        3. A receita marginal é \( RM_i = 100 - 2Q + q_i \).<br></br>
+        4. Em equilíbrio, a receita marginal é igual ao custo marginal: \( 100 - 2Q + q_i = 30 \) ou \( q_i = 70 - 2Q \).<br></br>
+        5. Como todas as empresas são iguais, \( Q = 8q \), então \( q = \frac{70}{8} \) e \( Q = 70 \).<br></br>
+        6. O preço de equilíbrio é \( p = 100 - Q = 30 \).<br></br>
+        Portanto, a resposta correta é (B), pois a receita total do conjunto de oligopolistas será a máxima possível.
+    </answer>
+</question>
 
 
 

@@ -45,6 +45,8 @@ function displayQuestion(index) {
         <div class="image-container">${extraContent}</div>
     `;
 
+    document.getElementById('question-container').classList.add('align-left');
+
     const optionsContainer = document.querySelector('.options-container');
     optionsContainer.innerHTML = '';  // Limpa as opções de resposta anteriores
 
@@ -98,29 +100,33 @@ function displayQuestion(index) {
 }
 
 
-    window.showAnswer = function () {
-        const question = questions[currentQuestionIndex];
-        const options = question.querySelectorAll('options option');
+window.showAnswer = function () {
+    const question = questions[currentQuestionIndex];
+    const options = question.querySelectorAll('options option');
 
-        options.forEach((option, idx) => {
-            const correct = option.getAttribute('correct') === 'true';
-            const optionElement = document.querySelector(`.options-container .option:nth-child(${idx + 1})`);
-            if (correct) {
-                optionElement.classList.add('correct');
-            } else {
-                optionElement.classList.add('incorrect');
-            }
-        });
+    options.forEach((option, idx) => {
+        const correct = option.getAttribute('correct') === 'true';
+        const optionElement = document.querySelector(`.options-container .option:nth-child(${idx + 1})`);
+        if (correct) {
+            optionElement.classList.add('correct');
+        } else {
+            optionElement.classList.add('incorrect');
+        }
+    });
 
-        document.getElementById('feedback-container').innerHTML = `Resposta correta: ${question.querySelector('answer').textContent}`;
-    };
+    const answerContent = question.querySelector('answer').innerHTML.replace(/\n/g, '<br>');
+    document.getElementById('feedback-container').innerHTML = `Resposta correta: ${answerContent}`;
+    document.getElementById('feedback-container').classList.add('align-left');
+};
+
 
     window.prevQuestion = function () {
         if (currentQuestionIndex > 0) {
             currentQuestionIndex--;
             displayQuestion(currentQuestionIndex);
         }
-        document.getElementById('feedback-container').innerHTML = '';
+    const answerContent = question.querySelector('answer').innerHTML.replace(/\n/g, '<br>');
+    document.getElementById('feedback-container').innerHTML = `Resposta correta: ${answerContent}`;
     };
 
     window.nextQuestion = function () {
