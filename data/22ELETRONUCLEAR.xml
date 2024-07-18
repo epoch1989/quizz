@@ -344,68 +344,71 @@ O controle da oferta monetária (A) poderia ser um instrumento, mas no regime de
     </extraContent>
     <answer>O saldo fiscal nominal é a diferença entre as receitas líquidas de impostos e os gastos primários do governo, acrescida das despesas de juros incidentes sobre a dívida pública. A alternativa (B) está incorreta porque define apenas o saldo primário, que não inclui as despesas com juros.</answer>
 </question>
-
 <question id="13">
-    <number>(38)</number>
-    <exam>
-        <name>ELETRONUCLEAR22</name>
-        <organization>CESGRANRIO</organization>
-        <year>2022</year>
-        <subject>ECONOMIA</subject>
-    </exam>
-    <text>O modelo de crescimento econômico de Solow baseia-se numa função agregada de produção, expressa na forma <br></br> Q = K^(1-α) * L^α * A(t),<br></br> em que Q é o nível do produto;<br></br> K, o estoque de capital da economia;<br></br> L, a força de trabalho;<br></br> A(t), o estado da tecnologia no tempo t;<br></br> e 1 - α e α são coeficientes técnicos que representam os retornos dos fatores capital e trabalho, respectivamente.<br></br>
+        <number>13 (38)</number>
+        <exam>
+            <name>ELETRONUCLEAR22</name>
+            <organization>CESGRANRIO</organization>
+            <year>2022</year>
+            <subject>ECONOMIA</subject>
+        </exam>
+        <text>
+            O modelo de crescimento econômico de Solow baseia-se numa função agregada de produção, expressa na forma<br></br> 
+            Q = K^(1-α) * L^α * A(t),<br></br>
+            em que Q é o nível do produto;<br></br>
+            K, o estoque de capital da economia;<br></br>
+            L, a força de trabalho;<br></br> 
+            A(t), o estado da tecnologia no tempo t;<br></br>
+            e 1 - α e α são coeficientes técnicos que representam os retornos dos fatores capital e trabalho, respectivamente.<br></br>
+            Com base nas hipóteses do modelo de Solow, um dos mais influentes na teoria neoclássica de crescimento econômico, verifica-se que:
+        </text>
+        <options>
+            <option correct="false">a função agregada de produção está sujeita a retornos crescentes de escala</option>
+            <option correct="true">o progresso técnico é a variável exógena e é estimado como resíduo no modelo</option>
+            <option correct="false">o progresso técnico, sendo a variável endógena do modelo, é o principal fator explicativo do crescimento econômico no longo prazo</option>
+            <option correct="false">o fator capital é o fator variável do modelo e está sujeito a rendimentos crescentes</option>
+            <option correct="false">os fatores capital e trabalho estão sujeitos à mesma taxa de variação ao longo do tempo</option>
+        </options>
+        <extraContent>
+            <img src="data/img/22eletronuclear38.jpg" alt="Equação de Solow" />
+        </extraContent>
+        <answer>
+            No modelo de crescimento de Solow, o progresso técnico é considerado uma variável exógena. Ele é frequentemente estimado como um resíduo, conhecido como o "resíduo de Solow" ou "fator de Solow", que capta o crescimento do produto não explicado pelo aumento dos fatores de produção (capital e trabalho). Este resíduo é interpretado como o efeito do progresso técnico.
+            <br></br>
+            A alternativa (A) está incorreta porque a função agregada de produção no modelo de Solow está sujeita a retornos constantes de escala, não crescentes. A alternativa (C) está incorreta porque no modelo de Solow, o progresso técnico é exógeno, não endógeno. A alternativa (D) está incorreta porque no modelo de Solow, o fator capital está sujeito a rendimentos decrescentes, não crescentes. A alternativa (E) está incorreta porque os fatores capital e trabalho não estão sujeitos à mesma taxa de variação ao longo do tempo.
+        </answer>
+    </question>
 
-Com base nas hipóteses do modelo de Solow, um dos mais influentes na teoria neoclássica de crescimento econômico, verifica-se que:</text>
-    <options>
-        <option correct="false">a função agregada de produção está sujeita a retornos crescentes de escala</option>
-        <option correct="true">o progresso técnico é a variável exógena e é estimado como resíduo no modelo</option>
-        <option correct="false">o progresso técnico, sendo a variável endógena do modelo, é o principal fator explicativo do crescimento econômico no longo prazo</option>
-        <option correct="false">o fator capital é o fator variável do modelo e está sujeito a rendimentos crescentes</option>
-        <option correct="false">os fatores capital e trabalho estão sujeitos à mesma taxa de variação ao longo do tempo</option>
-    </options>
-    <extraContent>
-        <img src="data/img/22eletronuclear38.jpg" alt="Equação de Solow" /></img>
-    </extraContent>
-    <answer>No modelo de crescimento de Solow, o progresso técnico é considerado uma variável exógena. Ele é frequentemente estimado como um resíduo, conhecido como o "resíduo de Solow" ou "fator de Solow", que capta o crescimento do produto não explicado pelo aumento dos fatores de produção (capital e trabalho). Este resíduo é interpretado como o efeito do progresso técnico.
-
-A alternativa (A) está incorreta porque a função agregada de produção no modelo de Solow está sujeita a retornos constantes de escala, não crescentes. A alternativa (C) está incorreta porque no modelo de Solow, o progresso técnico é exógeno, não endógeno. A alternativa (D) está incorreta porque no modelo de Solow, o fator capital está sujeito a rendimentos decrescentes, não crescentes. A alternativa (E) está incorreta porque os fatores capital e trabalho não estão sujeitos à mesma taxa de variação ao longo do tempo.</answer>
-</question>
-
-<question id="14">
-    <number>(39)</number>
-    <exam>
-        <name>ELETRONUCLEAR22</name>
-        <organization>CESGRANRIO</organization>
-        <year>2022</year>
-        <subject>ECONOMIA</subject>
-    </exam>
-    <text>O texto seguinte alude às mudanças ocorridas na economia brasileira, a partir da primeira metade da década de 1930.
-
-"O que parece ter sido decisivo para que Furtado identificasse pré-keynesianismo em Vargas, e não, por exemplo, em Epitácio Pessoa, é a imagem impressionante da queima dos estoques de café tão aparentada à construção de pirâmides ou ao cavar buracos mencionados por Keynes. É, entretanto, a disposição de acomodar o choque fiscal, através de aumento do déficit público, o elemento que permite, com adequação, que se possa afirmar que a política econômica do Governo Provisório tenha sido pré-keynesiana."
-
-ABREU, M. P. Crise, crescimento e modernização autoritária: 1930-1945. In M. P. Abreu (org.). A Ordem do Progresso: Cem Anos de Política Econômica Republicana – 1889-1989. Rio de Janeiro: Editora Campus, p. 81. Adaptado.
-
-Os eventos descritos no texto fazem menção à análise de Celso Furtado a respeito das mudanças ocorridas na economia brasileira, após a crise de 1929.
-
-A principal mudança a que se refere o texto é o(a):</text>
-    <options>
-        <option correct="false">setor externo como motor de crescimento da economia brasileira</option>
-        <option correct="false">ajuste fiscal ocorrido na primeira metade da década de 1930</option>
-        <option correct="true">mercado interno como fonte dinâmica de crescimento da economia brasileira</option>
-        <option correct="false">liberalização do comércio exterior ocorrida na primeira metade da década de 1930</option>
-        <option correct="false">política econômica de cunho liberal que se seguiu à crise de 1929</option>
-    </options>
-    <extraContent>
-        <blockquote>
-        "O que parece ter sido decisivo para que Furtado identificasse pré-keynesianismo em Vargas, e não, por exemplo, em Epitácio Pessoa, é a imagem impressionante da queima dos estoques de café tão aparentada à construção de pirâmides ou ao cavar buracos mencionados por Keynes. É, entretanto, a disposição de acomodar o choque fiscal, através de aumento do déficit público, o elemento que permite, com adequação, que se possa afirmar que a política econômica do Governo Provisório tenha sido pré-keynesiana."
-        </blockquote>
-        <reference>ABREU, M. P. Crise, crescimento e modernização autoritária: 1930-1945. In M. P. Abreu (org.). A Ordem do Progresso: Cem Anos de Política Econômica Republicana – 1889-1989. Rio de Janeiro: Editora Campus, p. 81. Adaptado.</reference>
-    </extraContent>
-    <answer>A análise de Celso Furtado sobre a política econômica do Governo Provisório de Vargas destaca a disposição em acomodar o choque fiscal através do aumento do déficit público, caracterizando essa política como pré-keynesiana. No entanto, a principal mudança na economia brasileira mencionada no texto é a mudança do foco do setor externo para o mercado interno como a fonte dinâmica de crescimento da economia. A política de queima de estoques de café e a ênfase no déficit público para estimular a economia são indicativos dessa transição para uma economia mais voltada para o mercado interno.
-
-A alternativa (B) é incorreta porque, embora o ajuste fiscal e o aumento do déficit público sejam discutidos, a mudança principal é a ênfase no mercado interno.</answer>
-</question>
-
+    <question id="14">
+        <number>14 (39)</number>
+        <exam>
+            <name>ELETRONUCLEAR22</name>
+            <organization>CESGRANRIO</organization>
+            <year>2022</year>
+            <subject>ECONOMIA</subject>
+        </exam>
+        <text>
+            O texto seguinte alude às mudanças ocorridas na economia brasileira, a partir da primeira metade da década de 1930.<br></br>
+            "O que parece ter sido decisivo para que Furtado identificasse pré-keynesianismo em Vargas, e não, por exemplo, em Epitácio Pessoa, é a imagem impressionante da queima dos estoques de café tão aparentada à construção de pirâmides ou ao cavar buracos mencionados por Keynes. É, entretanto, a disposição de acomodar o choque fiscal, através de aumento do déficit público, o elemento que permite, com adequação, que se possa afirmar que a política econômica do Governo Provisório tenha sido pré-keynesiana."<br></br><br></br>
+            ABREU, M. P. Crise, crescimento e modernização autoritária: 1930-1945. In M. P. Abreu (org.). A Ordem do Progresso: Cem Anos de Política Econômica Republicana – 1889-1989. Rio de Janeiro: Editora Campus, p. 81. Adaptado.<br></br>
+            Os eventos descritos no texto fazem menção à análise de Celso Furtado a respeito das mudanças ocorridas na economia brasileira, após a crise de 1929.
+            A principal mudança a que se refere o texto é o(a):
+        </text>
+        <options>
+            <option correct="false">setor externo como motor de crescimento da economia brasileira</option>
+            <option correct="false">ajuste fiscal ocorrido na primeira metade da década de 1930</option>
+            <option correct="true">mercado interno como fonte dinâmica de crescimento da economia brasileira</option>
+            <option correct="false">liberalização do comércio exterior ocorrida na primeira metade da década de 1930</option>
+            <option correct="false">política econômica de cunho liberal que se seguiu à crise de 1929</option>
+        </options>
+        <extraContent>
+        </extraContent>
+        <answer>
+            A análise de Celso Furtado sobre a política econômica do Governo Provisório de Vargas destaca a disposição em acomodar o choque fiscal através do aumento do déficit público, caracterizando essa política como pré-keynesiana. No entanto, a principal mudança na economia brasileira mencionada no texto é a mudança do foco do setor externo para o mercado interno como a fonte dinâmica de crescimento da economia. A política de queima de estoques de café e a ênfase no déficit público para estimular a economia são indicativos dessa transição para uma economia mais voltada para o mercado interno.
+            <br></br>
+            A alternativa (B) é incorreta porque, embora o ajuste fiscal e o aumento do déficit público sejam discutidos, a mudança principal é a ênfase no mercado interno.
+        </answer>
+    </question>
 
 <question id="15">
     <number>(40)</number>
@@ -504,11 +507,9 @@ A alternativa (A) é incorreta porque a produção nacional tende a se especiali
     <extraContent>
         <!-- Espaço para textos ou gráficos adicionais -->
     </extraContent>
-    <answer>O Plano Real implementou uma série de medidas econômicas e fiscais para estabilizar a inflação e trazer estabilidade econômica ao Brasil. Uma das estratégias principais foi a introdução da âncora cambial, que fixou a nova moeda (o Real) a uma faixa cambial, permitindo uma relativa estabilidade e controle sobre a inflação. Essa medida ajudou a reduzir a hiperinflação e estabilizar a economia.
-
-A alternativa (C) é incorreta porque o congelamento de preços e salários não foi uma característica do Plano Real, e sim de planos anteriores, como o Plano Cruzado.</answer>
+    <answer>O Plano Real implementou uma série de medidas econômicas e fiscais para estabilizar a inflação e trazer estabilidade econômica ao Brasil. Uma das estratégias principais foi a introdução da âncora cambial, que fixou a nova moeda (o Real) a uma faixa cambial, permitindo uma relativa estabilidade e controle sobre a inflação. Essa medida ajudou a reduzir a hiperinflação e estabilizar a economia.<br></br>
+        A alternativa (C) é incorreta porque o congelamento de preços e salários não foi uma característica do Plano Real, e sim de planos anteriores, como o Plano Cruzado.</answer>
 </question>
-</quiz>
 
 <question id="19">
     <number>(44)</number>
@@ -529,16 +530,17 @@ A alternativa (C) é incorreta porque o congelamento de preços e salários não
     <extraContent>
         <!-- Espaço para textos ou gráficos adicionais -->
     </extraContent>
-    <answer>O plano implementado entre 1956 e 1960 é o Plano de Metas, que foi elaborado e executado durante o governo de Juscelino Kubitschek. Este plano tinha como slogan "50 anos em 5" e buscava acelerar o desenvolvimento industrial e a infraestrutura do Brasil.
-
-Resumo dos outros planos mencionados:
-- **I Plano Nacional de Desenvolvimento (I PND)**: Implementado no período de 1972 a 1974 durante o governo de Emílio Garrastazu Médici, visava a infraestrutura e a integração nacional, com grandes projetos como a Transamazônica.
-- **II Plano Nacional de Desenvolvimento (II PND)**: Implementado entre 1975 e 1979 durante o governo de Ernesto Geisel, focava na diversificação industrial e na substituição de importações, além de grandes projetos de infraestrutura.
-- **Plano Trienal**: Lançado em 1963 durante o governo de João Goulart, visava combater a inflação e promover o crescimento econômico, mas enfrentou dificuldades políticas e econômicas.
-- **Plano Brasil Maior**: Implementado em 2011 durante o governo de Dilma Rousseff, focava em estimular a inovação e a competitividade industrial.
-
-A alternativa (B) é incorreta porque o II Plano Nacional de Desenvolvimento foi implementado entre 1975 e 1979, focando na diversificação industrial e na substituição de importações, além de grandes projetos de infraestrutura.</answer>
+    <answer>O plano implementado entre 1956 e 1960 é o Plano de Metas, que foi elaborado e executado durante o governo de Juscelino Kubitschek. Este plano tinha como slogan "50 anos em 5" e buscava acelerar o desenvolvimento industrial e a infraestrutura do Brasil.<br></br>
+        Resumo dos outros planos mencionados:<br></br>
+        - **I Plano Nacional de Desenvolvimento (I PND)**: Implementado no período de 1972 a 1974 durante o governo de Emílio Garrastazu Médici, visava a infraestrutura e a integração nacional, com grandes projetos como a Transamazônica.<br></br>
+        - **II Plano Nacional de Desenvolvimento (II PND)**: Implementado entre 1975 e 1979 durante o governo de Ernesto Geisel, focava na diversificação industrial e na substituição de importações, além de grandes projetos de infraestrutura.<br></br>
+        - **Plano Trienal**: Lançado em 1963 durante o governo de João Goulart, visava combater a inflação e promover o crescimento econômico, mas enfrentou dificuldades políticas e econômicas.<br></br>
+        - **Plano Brasil Maior**: Implementado em 2011 durante o governo de Dilma Rousseff, focava em estimular a inovação e a competitividade industrial.<br></br>
+        A alternativa (B) é incorreta porque o II Plano Nacional de Desenvolvimento foi implementado entre 1975 e 1979, focando na diversificação industrial e na substituição de importações, além de grandes projetos de infraestrutura.</answer>
 </question>
+
+
+
 <question id="20">
     <number>(45)</number>
     <exam>
